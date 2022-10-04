@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>link-Hong Kong</name>
+   <tag></tag>
+   <elementGuidId>f393c4b3-586e-455b-9a52-c3734515bed6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@data-automation='country-switcher-menu']//a[@data-automation='Country - Hong Kong']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.sx2jih0.sx2jihf.sx2jih0._1aq6jw0._18qlyvc22.zcydq89i.zcydq88i.zcydq84u.zcydq8p.zcydq8h.zcydq8fy.zcydq85._18qlyvc14._18qlyvc17.zcydq826.zcydq82h</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>2e828d5e-6aea-49a7-8a30-13bcbc2a5077</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>menuitem</value>
+      <webElementGuid>8dac6ce3-82ed-43bb-9372-0c4fe8e47d47</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>4e9ea1a5-f7b8-4e75-94a6-177b6dc9e65c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-automation</name>
+      <type>Main</type>
+      <value>Country - Hong Kong</value>
+      <webElementGuid>c6c6ec0e-5ae1-4761-808d-84cd02b5929d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sx2jih0 sx2jihf sx2jih0 _1aq6jw0 _18qlyvc22 zcydq89i zcydq88i zcydq84u zcydq8p zcydq8h zcydq8fy zcydq85 _18qlyvc14 _18qlyvc17 zcydq826 zcydq82h</value>
+      <webElementGuid>d3212a02-29cb-4b34-be1c-dba22920d15b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://hk.jobsdb.com</value>
+      <webElementGuid>d771ab06-e7c7-4f8b-a2c5-264b6ce2e64d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Hong Kong</value>
+      <webElementGuid>c495cd1d-ac32-4d6c-a481-083ff10591fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@data-automation='country-switcher-menu']//a[@data-automation='Country - Hong Kong']</value>
+      <webElementGuid>11e278b3-0dc1-4ae5-be49-162679a18e8d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/div[5]/div/div/div[2]/div/div/div/div/div[2]/div/a[2]</value>
+      <webElementGuid>d4aeab06-36ff-43c8-b42b-c8affbd783d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Australia'])[2]/following::a[1]</value>
+      <webElementGuid>901a368a-9104-4592-8cc2-a911cce805b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Malaysia'])[3]/following::a[2]</value>
+      <webElementGuid>b36bd28d-2f72-42c2-9364-08e7da2cf29e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Indonesia'])[2]/preceding::a[1]</value>
+      <webElementGuid>eeedf488-42df-4c47-9af4-d41847119589</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://hk.jobsdb.com')])[2]</value>
+      <webElementGuid>7581b911-4bcc-492a-b71a-06da6113aea0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div[2]/div/div/div/div/div[2]/div/a[2]</value>
+      <webElementGuid>648aa903-1d6d-48fb-915c-bd6515d56f37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://hk.jobsdb.com' and (text() = 'Hong Kong' or . = 'Hong Kong')]</value>
+      <webElementGuid>56686b73-5f34-410f-85a4-b60726b10f08</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>link-Career-advice</name>
+   <tag></tag>
+   <elementGuidId>e9f12a85-ef03-4519-acdb-76649e792191</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[@data-automation='Career Advice'])[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.sx2jih0.zcydq856.zcydq8ea.zcydq8n.zcydq85a.zcydq8ci.rdmf22</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>bb32ce03-4be0-4f6b-be41-38e35bd3d0f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sx2jih0 zcydq856 zcydq8ea zcydq8n zcydq85a zcydq8ci rdmf22</value>
+      <webElementGuid>644eaa1d-8f0b-4896-b5ad-021c48a5fe98</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Career advice</value>
+      <webElementGuid>eaab2a4c-64ba-406d-bd67-7ef94f23dce0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//a[@data-automation='Career Advice'])[1]</value>
+      <webElementGuid>44df425c-a971-4eb9-aa3b-7b351c974613</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/div[3]/div/div/div/div/div[2]/div/a[4]/span</value>
+      <webElementGuid>2f147aec-d7da-4f7b-80cc-5b8e37ea7289</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Company profiles'])[1]/following::span[1]</value>
+      <webElementGuid>cbef67b3-76a3-4c42-b019-646cd9034e63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MyJobStreet'])[1]/following::span[4]</value>
+      <webElementGuid>4b5b6fa2-2c1a-4411-bfb2-a55188f6236a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New'])[1]/preceding::span[3]</value>
+      <webElementGuid>cca3e41f-5e5c-4034-a4ed-636644497222</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[4]/span</value>
+      <webElementGuid>7305c458-1fbb-48b0-a098-7f66b1e52648</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Career advice' or . = 'Career advice')]</value>
+      <webElementGuid>22062b85-54cd-4311-a0d9-89de0329784f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

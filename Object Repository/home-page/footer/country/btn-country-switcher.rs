@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn-country-switcher</name>
+   <tag></tag>
+   <elementGuidId>06cd47ea-412a-48e9-8285-2cd7688de3b7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@data-automation='country-switcher-menu']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ba274b4c-2dd5-4ad6-a78f-0e7d93031e2a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sx2jih0 zcydq8r zcydq8da zcydq8aa zcydq84u zcydq8ei</value>
+      <webElementGuid>34f11c30-9d80-4872-9672-3fa222866026</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Malaysia</value>
+      <webElementGuid>20e47415-7e79-44e8-8068-3f3492d93465</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@data-automation='country-switcher-menu']</value>
+      <webElementGuid>3011f7c0-8e48-4b9d-bc65-dc09ab6f3669</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/div[5]/div/div/div[2]/div/div/div/div/div/span/div/div/div/div[2]</value>
+      <webElementGuid>d2a328ce-fd02-4af2-a7e5-906238516223</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Twitter'])[1]/following::div[12]</value>
+      <webElementGuid>2672cb08-8533-4654-ac6b-fb10591349c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Facebook'])[1]/following::div[14]</value>
+      <webElementGuid>6c5c9624-bcaa-47d9-8c47-30d67e7ffe3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Australia'])[2]/preceding::div[2]</value>
+      <webElementGuid>83d88d5b-c9d7-49c8-9eee-29e0716b2683</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hong Kong'])[2]/preceding::div[2]</value>
+      <webElementGuid>5a745714-dc3e-4cd4-9345-1ace6db70837</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div[2]/div/div/div/div/div/span/div/div/div/div[2]</value>
+      <webElementGuid>a6e80ace-55bd-4516-99a9-1f759e691a25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Malaysia' or . = 'Malaysia')]</value>
+      <webElementGuid>10ed2bff-7502-4c89-a6d9-e1d0723c6e46</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
