@@ -6,12 +6,16 @@
    <elementGuidId>24a20b58-302b-45c2-88a8-f8c2f8b1f0ab</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
          <value>//button[@data-automation='sort-createdAt']</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//button[@data-automation='sort-createdAt']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -22,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>cbc57a5d-5764-4dc3-b611-462c65f89e1b</webElementGuid>
+      <webElementGuid>05174407-20ea-4a81-b03f-560e1bc36273</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +34,7 @@
       <name>class</name>
       <type>Main</type>
       <value>sx2jih0 sx2jih7 zcydq87i zcydq86i zcydq89i zcydq88i gCItH_0</value>
-      <webElementGuid>2569b51a-3fd5-4b7f-bb58-3ba0749faff5</webElementGuid>
+      <webElementGuid>d7329657-d692-4353-9d68-0c961a573eaa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,15 +42,15 @@
       <name>data-automation</name>
       <type>Main</type>
       <value>sort-createdAt</value>
-      <webElementGuid>e2c4864a-9249-4477-a961-9852e49249e6</webElementGuid>
+      <webElementGuid>1b8c1f4b-bbac-4d1c-bb7c-eea27ef846b0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath</name>
+      <name>index</name>
       <type>Main</type>
       <value>1</value>
-      <webElementGuid>ccaceb6d-d5b1-4419-bfe1-c54efd27f358</webElementGuid>
+      <webElementGuid>75196342-8335-4d57-b072-8095cfba11f7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +58,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Date</value>
-      <webElementGuid>3f16e39d-62d7-4dad-91fb-32a8ea3fd347</webElementGuid>
+      <webElementGuid>abcb093f-0150-410b-ae24-945a1222981f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +66,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//button[@data-automation='sort-createdAt']</value>
-      <webElementGuid>cfd0a27e-6458-4089-93dd-27e94f7769f0</webElementGuid>
+      <webElementGuid>c8297e28-86f8-43ab-98b3-cd46a21d1fef</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +74,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='srpSearchForm']/div/div/form/div/div[2]/div/div/div/div[2]/div/div/div[2]/div/div[2]/button</value>
-      <webElementGuid>bdb29b19-44f3-4541-bbc5-58e1f8582949</webElementGuid>
+      <webElementGuid>9420beb8-a378-447f-a925-ab71dc8a820c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +82,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Relevance'])[2]/following::button[1]</value>
-      <webElementGuid>f0e1cb7c-63f8-44ff-a081-7f22eacd09b7</webElementGuid>
+      <webElementGuid>0f118e07-e446-4c62-a975-eaff4b9429d0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +90,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Date'])[1]/following::button[2]</value>
-      <webElementGuid>386b014e-0678-4cfe-9aed-be3088255a5e</webElementGuid>
+      <webElementGuid>848af040-0042-47a4-9615-eb89aa99ab8d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +98,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Searches related to qa automation jobs'])[1]/preceding::button[1]</value>
-      <webElementGuid>17c51e0f-bb6c-4249-8f07-fdff90bd842f</webElementGuid>
+      <webElementGuid>6c948a63-77e0-4387-94f1-174db9cf6d0e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +106,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/button</value>
-      <webElementGuid>ee0ad13c-dd31-40b1-9378-0af4d4142a66</webElementGuid>
+      <webElementGuid>54414d13-5370-4e12-bbe5-3aa0e9ee8dbe</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +114,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[(text() = 'Date' or . = 'Date')]</value>
-      <webElementGuid>9e6c86c5-9b55-4c32-8434-4952ceb7629e</webElementGuid>
+      <webElementGuid>e21d0603-f6bd-4ef4-8b0d-8e1c54fd7df9</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

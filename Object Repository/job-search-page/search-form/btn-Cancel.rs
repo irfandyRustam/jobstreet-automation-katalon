@@ -6,12 +6,16 @@
    <elementGuidId>507a8107-6161-4737-bb55-e8520684afb5</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
+         <key>CSS</key>
+         <value>a._1hr6tkx5._1hr6tkx8._1hr6tkxb.sx2jih0.sx2jihf.zcydq8h._16ycv5p0</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
          <value>//a[@data-automation='refinementFormCancelButton']</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>a._1hr6tkx5._1hr6tkx8._1hr6tkxb.sx2jih0.sx2jihf.zcydq8h._16ycv5p0</value>
+         <key>XPATH</key>
+         <value>//a[@data-automation='refinementFormCancelButton']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -22,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>12668c72-8954-4c7d-8716-d2c91dee887d</webElementGuid>
+      <webElementGuid>6b90a689-ae9e-4b02-bcd3-5772882e4a88</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +34,7 @@
       <name>href</name>
       <type>Main</type>
       <value>#</value>
-      <webElementGuid>da0a95ff-723f-4a84-b7d7-7f279c41512e</webElementGuid>
+      <webElementGuid>bad4a639-3078-4242-95be-80ed3033a02d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +42,7 @@
       <name>data-automation</name>
       <type>Main</type>
       <value>refinementFormCancelButton</value>
-      <webElementGuid>6fa74ac9-57c2-4b37-8cda-b77fedd73e84</webElementGuid>
+      <webElementGuid>458ccf0c-b387-40d0-a35a-9dc0122abab3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,15 +50,15 @@
       <name>class</name>
       <type>Main</type>
       <value>_1hr6tkx5 _1hr6tkx8 _1hr6tkxb sx2jih0 sx2jihf zcydq8h _16ycv5p0</value>
-      <webElementGuid>16bc5f6b-69c8-43d2-92ab-111d555929e7</webElementGuid>
+      <webElementGuid>f39dae31-c42d-4d26-9cc2-899cee6499af</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath</name>
+      <name>index</name>
       <type>Main</type>
       <value>1</value>
-      <webElementGuid>25977c89-4e6d-420f-a6ac-954aeb9e374b</webElementGuid>
+      <webElementGuid>da9b67d1-0b4c-4b4e-8bd8-e8be619b7d47</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +66,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Cancel</value>
-      <webElementGuid>fb385533-3192-4627-bdf0-fa50d4c7a8a6</webElementGuid>
+      <webElementGuid>4e1b5f10-7e60-4adf-b559-7d53cad6b597</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -70,7 +74,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//a[@data-automation='refinementFormCancelButton']</value>
-      <webElementGuid>49d3286b-c325-4de6-8ddf-b259f48e9ffb</webElementGuid>
+      <webElementGuid>eb8ad864-7583-46cd-97fe-10fee1599174</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +82,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='srpSearchForm']/div/div/form/div/div[2]/div/div/div/div/div/div/div[3]/div/div/div/div/div/div[3]/div/div[2]/div/div/div/div/div/span/a</value>
-      <webElementGuid>c2316a61-d03f-48c7-8dc6-531bccd299e9</webElementGuid>
+      <webElementGuid>80f738c6-2d62-433b-9b1f-181cd5c7e2de</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +90,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Cancel')]</value>
-      <webElementGuid>d3f3bc76-bba1-475d-a74e-8f5fdac5f1f6</webElementGuid>
+      <webElementGuid>83d36bdf-6c4f-44a5-b7a3-25de614d39c6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +98,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Last 30 days'])[1]/following::a[1]</value>
-      <webElementGuid>90d1e9fe-f16d-4ec2-b2b2-5619276e4b2c</webElementGuid>
+      <webElementGuid>89a7c732-284d-4f64-9112-ce4a5a2573a8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +106,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Last 14 days'])[1]/following::a[1]</value>
-      <webElementGuid>a587d0df-f140-43e4-aec8-afd9e1cefe73</webElementGuid>
+      <webElementGuid>53afe98b-4331-4780-9e1a-16e7989fdc68</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +114,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Apply'])[1]/preceding::a[1]</value>
-      <webElementGuid>3a8a35a1-2459-4012-8318-cf7718ffc1c4</webElementGuid>
+      <webElementGuid>3bbef2bd-ee15-49dd-a73b-943fa402e0c1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +122,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='|'])[1]/preceding::a[1]</value>
-      <webElementGuid>25fd8d34-1ee7-4b47-bc29-975df38839ce</webElementGuid>
+      <webElementGuid>bd18a281-758f-4106-8150-6bfefc4aec96</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +130,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, '#')])[4]</value>
-      <webElementGuid>fb1bb3f8-487a-4efa-bf9d-8b6da29836eb</webElementGuid>
+      <webElementGuid>35d9e039-18b3-4c74-b420-0094cac3af60</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,7 +138,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//span/a</value>
-      <webElementGuid>a4b50082-184d-4cc5-851a-7b0d0ee5fcd9</webElementGuid>
+      <webElementGuid>dcafbe27-c61b-4f37-ba38-24eadb5da673</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,6 +146,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '#' and (text() = 'Cancel' or . = 'Cancel')]</value>
-      <webElementGuid>be4092e1-e788-4540-bc10-60ea34c1c309</webElementGuid>
+      <webElementGuid>1c3b184d-f922-4891-adff-244360d5ff0b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

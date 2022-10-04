@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn-View in new tab</name>
+   <tag></tag>
+   <elementGuidId>57c22974-95ff-4094-9bbb-4faed4d5bfa1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@data-automation='jobDetailsLinkNewTab']//a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.sx2jih0.zcydq84u._18qlyvc0._18qlyvc1x._18qlyvc1._1d0g9qk4._18qlyvcb > a._1hr6tkx5._1hr6tkx8._1hr6tkxb.sx2jih0.sx2jihf.zcydq8h</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>5093e1b8-ae91-49e2-87a2-6160aefa673e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/en/job/automation-qa-engineer-and-tester-staytion-9950123?jobId=jobstreet-sg-job-9950123&amp;sectionRank=1&amp;token=0~35d60195-a513-4fb0-a711-fe4f2c895566&amp;searchPath=%2Fen%2Fjob-search%2Fqa-automation-jobs%2F%3FJSSRC%3DHPSCLI%26correlationName%3Drecent-searches%26itemIndex%3D0%26specialization%3D508&amp;fr=SRP%20View%20In%20New%20Tab</value>
+      <webElementGuid>0d2428bd-517b-4403-8014-71ec194b0299</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>bf5c6075-e76e-453c-a6ac-59790d350b7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rel</name>
+      <type>Main</type>
+      <value>nofollow</value>
+      <webElementGuid>a5b37cea-36f3-4573-b348-b41b0864d717</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_1hr6tkx5 _1hr6tkx8 _1hr6tkxb sx2jih0 sx2jihf zcydq8h</value>
+      <webElementGuid>86836857-bcad-4f6b-93d7-08b2ebcd9b79</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>View in new tab</value>
+      <webElementGuid>4b42f515-4ec6-40ed-bf46-23a983e3498d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@data-automation='jobDetailsLinkNewTab']//a</value>
+      <webElementGuid>416ad6d4-3c52-4829-9397-cb32be8a16bf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='contentContainer']/div[2]/div/div/div/div[2]/div/div/div/div/div/div[2]/span/a</value>
+      <webElementGuid>09f4b5e7-a6ef-4ab5-a907-3aeb8f8d76f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'View in new tab')]</value>
+      <webElementGuid>cbf870f6-7425-40f0-8d7f-076a22deb466</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apply Now'])[1]/following::a[1]</value>
+      <webElementGuid>8584f874-6c5e-47e1-9713-20521ae61a98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Next'])[1]/following::a[2]</value>
+      <webElementGuid>a87a5050-7bce-4893-85a5-8df33861f6c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[1]/preceding::a[1]</value>
+      <webElementGuid>f54c8819-2852-4840-acc2-a98088471d14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Automation QA Engineer And Tester (Staytion)'])[2]/preceding::a[1]</value>
+      <webElementGuid>9c52c493-a621-44e5-a6de-e34114161ca8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='View in new tab']/parent::*</value>
+      <webElementGuid>0bbcf4df-d016-4156-90df-5f7fb5d2236c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/en/job/automation-qa-engineer-and-tester-staytion-9950123?jobId=jobstreet-sg-job-9950123&amp;sectionRank=1&amp;token=0~35d60195-a513-4fb0-a711-fe4f2c895566&amp;searchPath=%2Fen%2Fjob-search%2Fqa-automation-jobs%2F%3FJSSRC%3DHPSCLI%26correlationName%3Drecent-searches%26itemIndex%3D0%26specialization%3D508&amp;fr=SRP%20View%20In%20New%20Tab')]</value>
+      <webElementGuid>f49eedd6-a271-4470-b20b-de6d24020c5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/div[2]/span/a</value>
+      <webElementGuid>b5c2e311-8468-4c37-844c-0708f0c6fc96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/en/job/automation-qa-engineer-and-tester-staytion-9950123?jobId=jobstreet-sg-job-9950123&amp;sectionRank=1&amp;token=0~35d60195-a513-4fb0-a711-fe4f2c895566&amp;searchPath=%2Fen%2Fjob-search%2Fqa-automation-jobs%2F%3FJSSRC%3DHPSCLI%26correlationName%3Drecent-searches%26itemIndex%3D0%26specialization%3D508&amp;fr=SRP%20View%20In%20New%20Tab' and (text() = 'View in new tab' or . = 'View in new tab')]</value>
+      <webElementGuid>2807acc2-849a-4ab4-9e29-b165f63a74a0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
