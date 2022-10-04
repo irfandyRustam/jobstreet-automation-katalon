@@ -6,15 +6,19 @@
    <elementGuidId>e9f12a85-ef03-4519-acdb-76649e792191</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>(//a[@data-automation='Career Advice'])[1]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>span.sx2jih0.zcydq856.zcydq8ea.zcydq8n.zcydq85a.zcydq8ci.rdmf22</value>
       </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>(//a[@data-automation='Career Advice'])[1]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[@data-automation='Career Advice'])[1]</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>bb32ce03-4be0-4f6b-be41-38e35bd3d0f8</webElementGuid>
+      <webElementGuid>01fd23b2-db4f-4d76-9ade-a6874cd76879</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +34,7 @@
       <name>class</name>
       <type>Main</type>
       <value>sx2jih0 zcydq856 zcydq8ea zcydq8n zcydq85a zcydq8ci rdmf22</value>
-      <webElementGuid>644eaa1d-8f0b-4896-b5ad-021c48a5fe98</webElementGuid>
+      <webElementGuid>89be9f1d-8c3e-45fb-86d1-fd737b0926c5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +42,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Career advice</value>
-      <webElementGuid>eaab2a4c-64ba-406d-bd67-7ef94f23dce0</webElementGuid>
+      <webElementGuid>a3639b72-18b7-4bda-8c26-7a508c549cc9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +50,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>(//a[@data-automation='Career Advice'])[1]</value>
-      <webElementGuid>44df425c-a971-4eb9-aa3b-7b351c974613</webElementGuid>
+      <webElementGuid>32a47a3d-728d-4af9-9af1-096ebc2c28e3</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +58,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='app']/div/div/div[3]/div/div/div/div/div[2]/div/a[4]/span</value>
-      <webElementGuid>2f147aec-d7da-4f7b-80cc-5b8e37ea7289</webElementGuid>
+      <webElementGuid>03daee9b-468f-4c82-87c4-cbf7d378ea63</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +66,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Company profiles'])[1]/following::span[1]</value>
-      <webElementGuid>cbef67b3-76a3-4c42-b019-646cd9034e63</webElementGuid>
+      <webElementGuid>8836af2a-8a4c-4306-b319-2b439cc17d36</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +74,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='MyJobStreet'])[1]/following::span[4]</value>
-      <webElementGuid>4b5b6fa2-2c1a-4411-bfb2-a55188f6236a</webElementGuid>
+      <webElementGuid>8df13676-ed5a-44ad-a628-83b34f08183e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +82,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='New'])[1]/preceding::span[3]</value>
-      <webElementGuid>cca3e41f-5e5c-4034-a4ed-636644497222</webElementGuid>
+      <webElementGuid>35145bd1-c771-4a4b-b475-d795b86c0d52</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +90,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//a[4]/span</value>
-      <webElementGuid>7305c458-1fbb-48b0-a098-7f66b1e52648</webElementGuid>
+      <webElementGuid>f231ea09-0a24-468f-b0ac-7ef3a9fa1104</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +98,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Career advice' or . = 'Career advice')]</value>
-      <webElementGuid>22062b85-54cd-4311-a0d9-89de0329784f</webElementGuid>
+      <webElementGuid>89adc704-bf29-433c-a067-190de9b10cd2</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

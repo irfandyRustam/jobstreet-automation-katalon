@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>link-JobStreet  App Store</name>
+   <name>link-JobStreet-Google Play</name>
    <tag></tag>
-   <elementGuidId>bde56514-3cca-42a6-961d-2e9b4b5fe6a8</elementGuidId>
+   <elementGuidId>3823736a-4105-471a-be43-57634cc1588b</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//a[@data-automation='JobStreet @ App Store']/div</value>
+         <value>//a[@data-automation='JobStreet @ Google Play']/div</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>div.sx2jih0.zcydq866.zcydq896 > div.sx2jih0._17fduda0._17fduda2 > div.sx2jih0.zcydq866 > a.sx2jih0.sx2jihf.rxszx00 > div.sx2jih0.zcydq856.zcydq8ea > span.sx2jih0.zcydq84u._18qlyvc0._18qlyvc1y._18qlyvc1._1d0g9qk4._18qlyvc8 > span.sx2jih0.rxszx01</value>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>ee2011df-6391-4a0d-aade-9a5374c8ece1</webElementGuid>
+      <webElementGuid>521cb8c5-4cd0-48c7-9c03-2ba6a9d7c03e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,86 +30,86 @@
       <name>class</name>
       <type>Main</type>
       <value>sx2jih0 rxszx01</value>
-      <webElementGuid>bdc9db09-dcaa-4fc5-9389-46cac15c29d9</webElementGuid>
+      <webElementGuid>87005656-1251-49b3-b009-6af3c2f59f80</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>JobStreet @ App Store</value>
-      <webElementGuid>03850ed5-93d4-4d7d-85f6-9e6ee211dc12</webElementGuid>
+      <value>JobStreet @ Google Play</value>
+      <webElementGuid>fc4a0a7b-48d8-47bc-9a05-79844e96d029</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//a[@data-automation='JobStreet @ App Store']/div</value>
-      <webElementGuid>1c455ee1-e264-40d1-85aa-9dec8e74ba22</webElementGuid>
+      <value>//a[@data-automation='JobStreet @ Google Play']/div</value>
+      <webElementGuid>e498d325-aee6-4dda-9cfb-9b182e4603cc</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='app']/div/div/div[5]/div/div/div/div/div/div/div/div/div/div/div/div/div[2]/div/div[7]/div/div[2]/div/div/div/a/div/span/span[2]</value>
-      <webElementGuid>ff6d1094-1e42-46fb-adce-5110f3c508a2</webElementGuid>
+      <value>//div[@id='app']/div/div/div[5]/div/div/div/div/div/div/div/div/div/div/div/div/div[2]/div/div[7]/div/div[2]/div/div/div[2]/a/div/span/span[2]</value>
+      <webElementGuid>adefab9b-6371-4b17-92b8-a914f5b8b7aa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Download apps'])[1]/following::span[4]</value>
-      <webElementGuid>35f6e73b-803c-4e8f-844d-74416e52cf1a</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='JobStreet @ App Store'])[1]/following::span[3]</value>
+      <webElementGuid>d233173e-19ef-4091-99d4-16828ca464f6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Testimonials'])[1]/following::span[5]</value>
-      <webElementGuid>16242452-57cc-444a-ab61-ae5dfc31c5e7</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Download apps'])[1]/following::span[7]</value>
+      <webElementGuid>a9de1b84-4352-490a-802e-bcdd84cbd57b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='JobStreet @ Google Play'])[1]/preceding::span[2]</value>
-      <webElementGuid>65832a96-9bfc-48c8-a65d-c30d54cc2a5d</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Employers'])[1]/preceding::span[1]</value>
+      <webElementGuid>41493797-a25a-4ae4-9d3a-f5d56a8a90af</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Employers'])[1]/preceding::span[4]</value>
-      <webElementGuid>2c6ec05a-2540-4ac4-bf48-0f6cb3b9ae5c</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Post a job ad'])[1]/preceding::span[2]</value>
+      <webElementGuid>5447c2c6-b402-403c-bee9-601f1a0529d0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='JobStreet @ App Store']/parent::*</value>
-      <webElementGuid>d3fbfd0c-4c6a-44ec-8a89-05f873caa7fc</webElementGuid>
+      <value>//*/text()[normalize-space(.)='JobStreet @ Google Play']/parent::*</value>
+      <webElementGuid>e1ced516-5c5b-4170-a176-260b60606702</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//span/span[2]</value>
-      <webElementGuid>d53947c7-9964-418c-908b-e5cf34a776f2</webElementGuid>
+      <value>//div[2]/a/div/span/span[2]</value>
+      <webElementGuid>823b4bde-1a72-46b7-84db-2c9c5c6da9f0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//span[(text() = 'JobStreet @ App Store' or . = 'JobStreet @ App Store')]</value>
-      <webElementGuid>28da0095-d29c-47ef-b455-11b980e9b197</webElementGuid>
+      <value>//span[(text() = 'JobStreet @ Google Play' or . = 'JobStreet @ Google Play')]</value>
+      <webElementGuid>966ee92e-75e8-4b1a-ae6f-8c3981bc3a95</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
