@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ckbox-Last 24 hours</name>
+   <tag></tag>
+   <elementGuidId>9b6a903d-f5c7-46ba-94da-7fa8452b300a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@data-automation='filterDropdown-CREATED_AT']//span[text()='Last 24 hours']/parent::div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f410e073-2e26-4b6e-b7a1-32182971a6ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sx2jih0 zcydq86i zcydq87i zcydq89m zcydq88m zcydq856 zcydq8eu zcydq8h HVVuU_0</value>
+      <webElementGuid>a91b6e65-e412-4a28-ac3f-842536562a8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-automation</name>
+      <type>Main</type>
+      <value>SingleCheckboxGroup</value>
+      <webElementGuid>e83a065c-13d7-40ad-a19f-2a731f25a39c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>createdAt</value>
+      <webElementGuid>eac0953d-f737-4e57-acef-eef6125f0019</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Last 24 hours</value>
+      <webElementGuid>12ba8e04-f16b-41c0-91b7-08a919191ee7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@data-automation='filterDropdown-CREATED_AT']//span[text()='Last 24 hours']/parent::div</value>
+      <webElementGuid>4d34e739-a4b2-46c9-938b-c50516374976</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//div[@name='createdAt'])[2]</value>
+      <webElementGuid>d2d9eeb1-4ffa-4253-bd19-b351cca72069</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='srpSearchForm']/div/div/form/div/div[2]/div/div/div/div/div/div/div[3]/div/div/div/div/div/div[3]/div/div/div/div/div[2]/div</value>
+      <webElementGuid>e8385af0-32ea-4c8d-a822-b5e21de65b80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Any Time'])[1]/following::div[2]</value>
+      <webElementGuid>eddab775-5fb9-4ada-bbbe-e05f7e85b289</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Date posted'])[2]/following::div[10]</value>
+      <webElementGuid>92fb7575-a6de-42a1-a38c-28e134f05ef9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Last 3 days'])[1]/preceding::div[1]</value>
+      <webElementGuid>132dd4dd-010a-47db-bd6f-f46857706afc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/div[2]/div</value>
+      <webElementGuid>67ea1ff3-ec75-4294-94f3-014a44f4602b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@name = 'createdAt' and (text() = 'Last 24 hours' or . = 'Last 24 hours')]</value>
+      <webElementGuid>5270fa67-114d-49b8-ac79-c38d1b20f0ad</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
