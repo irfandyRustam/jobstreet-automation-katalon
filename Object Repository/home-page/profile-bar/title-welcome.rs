@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>title-welcome</name>
+   <tag></tag>
+   <elementGuidId>fa3b565c-3f1c-4ff4-b875-88095195657f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@data-automation='profile-bar']//h3</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h3.sx2jih0._18qlyvc0._18qlyvch._1d0g9qk4._18qlyvcp._18qlyvc1x</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>f994137b-15f5-4a93-a349-4d5ca46a6066</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sx2jih0 _18qlyvc0 _18qlyvch _1d0g9qk4 _18qlyvcp _18qlyvc1x</value>
+      <webElementGuid>d8182cfc-998b-4cf3-a9d5-4986172a665e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Welcome Irfandi</value>
+      <webElementGuid>59d3468c-4da7-4254-bddf-53b7093267c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@data-automation='profile-bar']//h3</value>
+      <webElementGuid>4cbc6b77-a425-4afb-a0fa-cced8afc1dcc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='contentContainer']/div/div[3]/div/div/div/div/div/div/div/div/div/div/h3</value>
+      <webElementGuid>95f34c95-9b55-4c28-82c1-268a03396ec5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All locations'])[3]/following::h3[1]</value>
+      <webElementGuid>69eabce5-2701-429e-8152-10686d024411</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All jobs'])[1]/following::h3[1]</value>
+      <webElementGuid>e2bd1d8c-2901-42dd-ad50-84b86cb77fc7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View profile'])[3]/preceding::h3[1]</value>
+      <webElementGuid>7933d847-e40e-4239-879a-11f921c64519</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Welcome Irfandi']/parent::*</value>
+      <webElementGuid>a6f328ec-5211-49df-920d-71a335c4b43f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h3</value>
+      <webElementGuid>c82aadb6-3380-4bb3-9304-ccfb22bacb9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'Welcome Irfandi' or . = 'Welcome Irfandi')]</value>
+      <webElementGuid>eadb38e1-832a-49db-a512-3cb2be259f46</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

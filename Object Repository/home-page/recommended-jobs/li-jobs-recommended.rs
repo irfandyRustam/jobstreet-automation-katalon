@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li-jobs-recommended</name>
+   <tag></tag>
+   <elementGuidId>b40ac3ca-9970-4920-9308-be7558d8002f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@aria-labelledby='horizontal-list-Recommended-based-on-your-preferences']//li</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.sx2jih0.zcydq876.zcydq866.zcydq896.zcydq886.zcydq856.zcydq8f6.zcydq8p.zcydq8n.zcydq8eu</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b3352fab-79ed-4f05-95cf-40df5b505938</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sx2jih0 zcydq876 zcydq866 zcydq896 zcydq886 zcydq856 zcydq8f6 zcydq8p zcydq8n zcydq8eu</value>
+      <webElementGuid>b024774b-b312-4b1f-8981-0d351b85cbe7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Software Tester (up to SGD 5800)  AMKMaestro Human Resource Pte LtdAng Mo KioMYR 4K - 5.8K monthly26d ago</value>
+      <webElementGuid>7e706159-5511-40c9-b1af-4ee78812d687</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//section[@aria-labelledby='horizontal-list-Recommended-based-on-your-preferences']//li</value>
+      <webElementGuid>718f8206-2bbf-463c-99c1-7e79c8b18f93</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='contentContainer']/div/div[3]/div/div/div/div[3]/section/div/div[2]/ol/li/a/div/div/div</value>
+      <webElementGuid>a090759a-a6f7-452d-a479-a2943ad8e61d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Recommended based on your preferences'])[1]/following::div[4]</value>
+      <webElementGuid>9f4b8b37-579b-4101-bd0c-623d87ea08f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Job alerts'])[2]/following::div[12]</value>
+      <webElementGuid>04a71f9a-37b4-4be9-84d6-6d2dd21b9290</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/a/div/div/div</value>
+      <webElementGuid>6b56f480-42e6-46da-8338-db0e2be828bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Software Tester (up to SGD 5800)  AMKMaestro Human Resource Pte LtdAng Mo KioMYR 4K - 5.8K monthly26d ago' or . = 'Software Tester (up to SGD 5800)  AMKMaestro Human Resource Pte LtdAng Mo KioMYR 4K - 5.8K monthly26d ago')]</value>
+      <webElementGuid>797e2168-996f-45e0-9ed9-a9ac155c93fc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

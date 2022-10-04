@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>title-Recommended based on your preferences</name>
+   <tag></tag>
+   <elementGuidId>f748a7fa-7141-48b8-a8c4-82248ab94bf3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//h3[@id='horizontal-list-Recommended-based-on-your-preferences']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#horizontal-list-Recommended-based-on-your-preferences</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>113d5222-7caf-464d-8759-f2eeeebdfe97</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sx2jih0 _18qlyvc0 _18qlyvch _1d0g9qk4 _18qlyvcp _18qlyvc1x</value>
+      <webElementGuid>76e89b41-093f-4eac-aa71-88e417e9fca8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>horizontal-list-Recommended-based-on-your-preferences</value>
+      <webElementGuid>52af069c-af4b-4dda-94df-ce3b44e4bb6b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Recommended based on your preferences</value>
+      <webElementGuid>cfac557e-402a-40ea-9d7e-69c3b82ea1f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//h3[@id='horizontal-list-Recommended-based-on-your-preferences']</value>
+      <webElementGuid>e29b152f-2847-4f5b-8d00-122371244e77</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//h3[@id='horizontal-list-Recommended-based-on-your-preferences']</value>
+      <webElementGuid>81af637e-a0ab-4b10-ab85-b268bf42c043</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='contentContainer']/div/div[3]/div/div/div/div[3]/section/div/div/div/div/div/h3</value>
+      <webElementGuid>dcdfc574-9042-43af-917b-e91d7351dd99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Job alerts'])[2]/following::h3[1]</value>
+      <webElementGuid>311d1d74-d073-493b-a641-af6de75551a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Job applications'])[4]/following::h3[1]</value>
+      <webElementGuid>26d69036-acd2-4a17-942e-edf2cc0082e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Maestro Human Resource Pte Ltd'])[1]/preceding::h3[1]</value>
+      <webElementGuid>6db2f86b-b267-4ff6-91f6-20e92e65e8bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Recommended based on your preferences']/parent::*</value>
+      <webElementGuid>41d6061a-8f65-40eb-a8e6-87837ef9634e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div/div/div/div/div/h3</value>
+      <webElementGuid>2c5c818d-90cb-4d57-873d-b86012831807</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[@id = 'horizontal-list-Recommended-based-on-your-preferences' and (text() = 'Recommended based on your preferences' or . = 'Recommended based on your preferences')]</value>
+      <webElementGuid>7e1df674-e8d3-4565-b32f-6d118f230c03</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

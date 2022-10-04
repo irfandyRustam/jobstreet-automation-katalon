@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn-Show more</name>
+   <tag></tag>
+   <elementGuidId>b33c5b47-817c-4786-8df6-63c5125270b0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//section[@aria-labelledby='horizontal-list-Top-employers']/following-sibling::div//button)[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.sx2jih0.zcydq84q.zcydq84r.zcydq850 > button.sx2jih0.sx2jih7.zcydq85y.zcydq8p.zcydq85a.zcydq84u.zcydq8y.zcydq8x.zcydq85.zcydq8g2.zcydq84.zcydq8h._97fi8d0._97fi8d5</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>f6f5a045-203c-4588-aedf-6eafb4c94c58</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sx2jih0 sx2jih7 zcydq85y zcydq8p zcydq85a zcydq84u zcydq8y zcydq8x zcydq85 zcydq8g2 zcydq84 zcydq8h _97fi8d0 _97fi8d5</value>
+      <webElementGuid>aa7e996f-115d-4e03-9098-c498c22b577f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>704c1bc0-31d7-4d35-a65b-108d5177a75e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Show more</value>
+      <webElementGuid>533f9f39-042d-432b-9304-3160e7e64f9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//section[@aria-labelledby='horizontal-list-Top-employers']/following-sibling::div//button)[1]</value>
+      <webElementGuid>e3d45757-3397-486c-b24e-fc65d3c96a87</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[8]</value>
+      <webElementGuid>85ef5d20-f800-4da5-a784-ac746f10db18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='contentContainer']/div/div[3]/div/div/div[2]/div[2]/div/div/div/div/div/div/button</value>
+      <webElementGuid>3816d844-5d9d-4ee6-8ba4-23d56142ca9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Top employers'])[1]/following::button[1]</value>
+      <webElementGuid>bf433548-0e30-4a12-bbe2-6fbd2e1084b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Show more'])[2]/following::button[1]</value>
+      <webElementGuid>78cbbfb1-966b-4db4-a2be-c05863ee3e55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Show more'])[4]/preceding::button[1]</value>
+      <webElementGuid>5608d835-ad2d-4043-a969-d17b3882680d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div/div/div/div/button</value>
+      <webElementGuid>470b58b1-bd7f-45a2-8c56-6bc1726a636e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Show more' or . = 'Show more')]</value>
+      <webElementGuid>78f4c520-7801-4a28-b68a-e22e53d3ef80</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

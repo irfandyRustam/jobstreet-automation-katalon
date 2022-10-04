@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>title-Top employers</name>
+   <tag></tag>
+   <elementGuidId>103c0810-7d7f-400b-951c-ec50be330127</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//h3[@id='horizontal-list-Top-employers']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#horizontal-list-Top-employers</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>bc1608ff-90f8-44d9-9cf8-5a180a0d292a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sx2jih0 _18qlyvc0 _18qlyvch _1d0g9qk4 _18qlyvcp _18qlyvc1x</value>
+      <webElementGuid>34d6611b-3985-4fef-8323-76086d331872</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>horizontal-list-Top-employers</value>
+      <webElementGuid>de79f564-59b0-406f-843c-b356c665c09d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Top employers</value>
+      <webElementGuid>e3c4941c-f25e-49bb-bd10-55aad492af26</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//h3[@id='horizontal-list-Top-employers']</value>
+      <webElementGuid>7fdc1469-996e-441d-be0a-08d4f9cecea4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//h3[@id='horizontal-list-Top-employers']</value>
+      <webElementGuid>755234c5-0be1-4685-9da9-f68912d933d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='contentContainer']/div/div[3]/div/div/div[2]/div[2]/div/div/div/div/section/div/div/div/div/div/h3</value>
+      <webElementGuid>7274e456-8aad-42dd-95ca-2dff51a26ca9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Show more'])[2]/following::h3[1]</value>
+      <webElementGuid>9eef7582-7594-4530-9951-1126725e94f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Downtown Core'])[1]/following::h3[1]</value>
+      <webElementGuid>99b1a5eb-aacd-41e1-809e-24c3438a3a62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Show more'])[3]/preceding::h3[1]</value>
+      <webElementGuid>f3cfbe12-736b-4172-a641-f2ca02c06273</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Show more'])[4]/preceding::h3[1]</value>
+      <webElementGuid>1d648575-eb49-4a52-9a91-484b7108a1db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Top employers']/parent::*</value>
+      <webElementGuid>5e48dfbd-a63f-4cae-b73d-8548c808a09a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/section/div/div/div/div/div/h3</value>
+      <webElementGuid>c798178e-1ea0-426e-bd15-31569f06370d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[@id = 'horizontal-list-Top-employers' and (text() = 'Top employers' or . = 'Top employers')]</value>
+      <webElementGuid>bdff6899-3155-4e75-97df-30447ce92b60</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

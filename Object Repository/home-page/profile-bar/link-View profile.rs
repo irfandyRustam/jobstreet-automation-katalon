@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>link-View profile</name>
+   <tag></tag>
+   <elementGuidId>92ffb2ee-c4a4-4f8e-91ab-ffeb44d4d749</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@data-automation='profile-bar']//a[text()='View profile']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a._1hr6tkx5._1hr6tkx8._1hr6tkxb.sx2jih0.sx2jihf.zcydq8h</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>dd6efeca-e651-4068-82df-735f5cc740ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rel</name>
+      <type>Main</type>
+      <value>nofollow</value>
+      <webElementGuid>c0fd81c6-2b0c-47c1-96a1-37b79f03c6ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_1hr6tkx5 _1hr6tkx8 _1hr6tkxb sx2jih0 sx2jihf zcydq8h</value>
+      <webElementGuid>642d1334-2c90-4daf-bd5f-c9772efdf750</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_self</value>
+      <webElementGuid>401111af-9b25-4bfd-8c06-e43100ef02f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://myjobstreet.jobstreet.com.sg/resume/preview-resume.php</value>
+      <webElementGuid>efb26f4d-852b-4fe4-83cd-728d8bc027e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>View profile</value>
+      <webElementGuid>c94e0fc6-9f4c-4f4c-92ac-e272fc0cf4dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@data-automation='profile-bar']//a[text()='View profile']</value>
+      <webElementGuid>a5e18d62-ea03-445c-9a2f-cd74a1e0327d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='contentContainer']/div/div[3]/div/div/div/div/div/div/div/div/div/div[2]/span/a</value>
+      <webElementGuid>08c50552-cf24-4999-aeb9-8913d8891bd6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'View profile')]</value>
+      <webElementGuid>ed00378e-38e2-452d-8ae6-5274ae7a67a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Welcome Irfandi'])[1]/following::a[1]</value>
+      <webElementGuid>952fa9b0-30f4-492f-a2a0-1f708b1bdbce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Saved jobs'])[1]/preceding::a[1]</value>
+      <webElementGuid>31b7c040-ecca-4cf2-880b-2a5c66453abd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Job applications'])[3]/preceding::a[2]</value>
+      <webElementGuid>9e330114-5f0d-4b19-a3ca-fb014543888e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://myjobstreet.jobstreet.com.sg/resume/preview-resume.php')])[6]</value>
+      <webElementGuid>03e413a8-4d34-44a7-b465-428d6ee645f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/a</value>
+      <webElementGuid>481aa222-79b7-4de4-9f40-12cfc88ebf4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://myjobstreet.jobstreet.com.sg/resume/preview-resume.php' and (text() = 'View profile' or . = 'View profile')]</value>
+      <webElementGuid>5a7217d5-59d9-4f66-bef0-da71df72e7d5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

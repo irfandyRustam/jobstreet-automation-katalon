@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>title-Saved jobs</name>
+   <tag></tag>
+   <elementGuidId>4e403a23-adc5-4bf8-b4de-3e41211492af</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//h3[@id='horizontal-list-Saved-jobs']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#horizontal-list-Saved-jobs</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>88f6d0f0-24b7-4171-aa14-c41023cffe8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sx2jih0 _18qlyvc0 _18qlyvch _1d0g9qk4 _18qlyvcp _18qlyvc1x</value>
+      <webElementGuid>2909d445-f46c-4ee0-9501-91c1a1d90cad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>horizontal-list-Saved-jobs</value>
+      <webElementGuid>d1718347-f1c2-4c08-b5a5-c58598f3566a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Saved jobs</value>
+      <webElementGuid>94369f75-f43c-409e-965f-0af1d363c2ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//h3[@id='horizontal-list-Saved-jobs']</value>
+      <webElementGuid>c6ba74da-6e0e-41cd-9075-9684e89d82d0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//h3[@id='horizontal-list-Saved-jobs']</value>
+      <webElementGuid>546b7458-9023-4537-88dc-006b519c1202</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='contentContainer']/div/div[3]/div/div/div/div[5]/div/section/div/div/div/div/div/h3</value>
+      <webElementGuid>56bad0de-deae-47cb-ae9c-064ef59fe132</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Show more'])[1]/following::h3[1]</value>
+      <webElementGuid>04953c5f-201e-45cb-815b-a81057157586</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SGD 4K - 8K monthly'])[1]/following::h3[1]</value>
+      <webElementGuid>37203872-2c9d-4ada-8acd-ea2c587fd31c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quality Engineer'])[1]/preceding::h3[1]</value>
+      <webElementGuid>c607814b-cdc0-42b4-8f80-84d1e55be3e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Olea Global Pte. Ltd.'])[1]/preceding::h3[1]</value>
+      <webElementGuid>243cfab6-dbd8-4784-aac2-81183ea1e359</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/section/div/div/div/div/div/h3</value>
+      <webElementGuid>a4cc3bb8-9762-4c00-836a-6d541c43c73e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[@id = 'horizontal-list-Saved-jobs' and (text() = 'Saved jobs' or . = 'Saved jobs')]</value>
+      <webElementGuid>958cad38-0916-470c-9fb4-de4eed9caf6d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
