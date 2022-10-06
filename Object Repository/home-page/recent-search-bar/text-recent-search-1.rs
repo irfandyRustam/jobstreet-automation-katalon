@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>text-recent-search-1</name>
+   <tag></tag>
+   <elementGuidId>df2a638f-a900-4e3e-b47c-fb03cb82906b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@data-automation='recent-search-item-0']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.sx2jih0.l3gun70.l3gun73.l3gun71</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f67e5d71-9bca-4df8-a1d7-4722d169cbcc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sx2jih0 l3gun70 l3gun73 l3gun71</value>
+      <webElementGuid>28a1905b-330c-4c67-99ad-3afff28d19a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>qa automation</value>
+      <webElementGuid>ea058ed7-7c5d-48a4-b88a-c1f6240aab5d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>qa automation</value>
+      <webElementGuid>b1f1b0de-6e1d-45a4-89be-b001ae5280ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@data-automation='recent-search-item-0']</value>
+      <webElementGuid>f011c8d2-1bd0-44af-883c-eb295ddea065</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='contentContainer']/div/div[2]/div/div/div/div[2]/div/a/div/div/div/span[2]/div</value>
+      <webElementGuid>91155b44-28ac-42bd-b9c4-1427d662e0a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Recent searches'])[1]/following::div[8]</value>
+      <webElementGuid>3f9a4f9e-691d-409f-84fe-f93c87971953</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[1]/following::div[13]</value>
+      <webElementGuid>a05d1a2f-ed4a-4899-a560-a6d3be3ad107</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All locations'])[1]/preceding::div[1]</value>
+      <webElementGuid>a6f37542-20bb-405a-ae02-7d49485ac0cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='jobstreet.com'])[1]/preceding::div[5]</value>
+      <webElementGuid>cd7e63dd-9c25-4cf3-a1d8-c4410b521fd6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='qa automation']/parent::*</value>
+      <webElementGuid>8e4f3ef8-019f-4767-8832-9145de4db8db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]/div</value>
+      <webElementGuid>d3c78858-0820-4b74-b297-38ff7c99957b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@title = 'qa automation' and (text() = 'qa automation' or . = 'qa automation')]</value>
+      <webElementGuid>7e74d6b0-f6ac-45a3-b222-ba011b9460da</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>dropdown-Specializations</name>
+   <tag></tag>
+   <elementGuidId>385014f0-ab1c-4ba3-b256-886e004ab055</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@data-automation='jobFunctionChecklistField']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.sx2jih0.wGmH0_0 > span.sx2jih0.zcydq84u._18qlyvc0._18qlyvc1x._18qlyvc1._18qlyvca > span.sx2jih0.zcydq84u.zcydq80.iwjz4h0</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>9321a26a-29a2-4b62-93ca-5083873bd754</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sx2jih0 zcydq84u zcydq80 iwjz4h0</value>
+      <webElementGuid>bd5c16d5-5aad-4a62-a678-74bbc8828482</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>All Job Specializations</value>
+      <webElementGuid>199c3ada-9b21-4e97-83e5-2c5b5f2c957f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@data-automation='jobFunctionChecklistField']</value>
+      <webElementGuid>f879a61a-18c9-454d-9398-441c93eb3172</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='contentContainer']/div/div/div/div/div/div/div[2]/div/form/div/div/div[2]/div[3]/div/div/div/button/div[2]/span/span</value>
+      <webElementGuid>5e2c4901-3cde-4ead-8353-eb53f976c3a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Created with Sketch.'])[1]/following::span[2]</value>
+      <webElementGuid>f868870a-f722-4a7a-8c41-4c1ce9ffc475</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Suggestions will appear below the field as you type'])[2]/following::span[2]</value>
+      <webElementGuid>af651977-38f5-401d-b5fa-a5470f24ead9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[1]/preceding::span[4]</value>
+      <webElementGuid>3d2b9798-2e58-4ce3-851b-cc7cdad5272b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Recent searches'])[1]/preceding::span[6]</value>
+      <webElementGuid>d2312dd1-79e8-4bba-b3d4-7cee5c10752d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='All Job Specializations']/parent::*</value>
+      <webElementGuid>cd12ac9e-b6fc-4a07-8343-c55eb883f58b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/div[2]/span/span</value>
+      <webElementGuid>2fdd8ea4-de04-41a9-8815-9d2b28fee2ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'All Job Specializations' or . = 'All Job Specializations')]</value>
+      <webElementGuid>1345cf8e-5a4f-438a-bf47-545c62f9b71a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn-save-job</name>
+   <tag></tag>
+   <elementGuidId>695127c6-f3be-412a-a94d-f24c23c932e2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@aria-label='Save job']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>58e064c4-9e57-45eb-bdc0-6b252ac775ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sx2jih0 sx2jih7 zcydq856 zcydq8q zcydq8o zcydq8em zcydq8ea zcydq85q zcydq8h FlL2n_0 bAXi4_0</value>
+      <webElementGuid>8d060671-44cd-44de-aa33-8b5f7bc393e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Save job</value>
+      <webElementGuid>68aa854f-b4ee-4bfb-8410-e33152f1c44f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//button[@aria-label='Save job']</value>
+      <webElementGuid>9cd99a10-d9c9-4e9f-832f-902b502f5570</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='jobList']/div[2]/div[2]/div/div[10]/div/div/article/div/div/div/div/div/button</value>
+      <webElementGuid>87fb8930-a568-48b5-8dc6-abd1ad7d80de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Full-Time'])[8]/following::button[1]</value>
+      <webElementGuid>7ad69434-4a60-499c-a792-bdee3008238c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Job Type'])[9]/following::button[1]</value>
+      <webElementGuid>dc4dfbdf-0e1c-4113-89f5-1bfc3405a5cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Software QA Engineer'])[1]/preceding::button[1]</value>
+      <webElementGuid>0ab33bf2-edde-43c0-ab60-e39b9189206a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Smartidea Pte Ltd'])[1]/preceding::button[1]</value>
+      <webElementGuid>99250988-8660-45f7-bfe6-e8c87298048f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[10]/div/div/article/div/div/div/div/div/button</value>
+      <webElementGuid>0e2312d5-574b-44d3-9d05-08176225cec7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

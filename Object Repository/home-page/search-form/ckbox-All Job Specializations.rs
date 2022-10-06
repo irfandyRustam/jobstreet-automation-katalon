@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ckbox-All Job Specializations</name>
+   <tag></tag>
+   <elementGuidId>2ed7d765-0a82-42b9-89d5-32e7aa8dd7f8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='all-Job Specializations']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>d26cb6a6-ce30-4b74-a768-04843160ae3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sx2jih0 sx2jih1 sx2jih6 sx2jih7 sx2jihc zcydq85e zcydq88 zcydq8h zcydq86 ajlqar1 ajlqar2</value>
+      <webElementGuid>af4d6da6-f78f-4926-a38f-7c27d78b896c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>checkbox</value>
+      <webElementGuid>dbe7859f-a5ce-4afd-845b-ae1a019b69f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>all-Job Specializations</value>
+      <webElementGuid>5c74c428-6de7-4e2d-b57c-ab4a6802b836</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-checked</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>6235d0d2-710d-4c05-8da5-f94158a28afd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//input[@id='all-Job Specializations']</value>
+      <webElementGuid>1ccc3283-e6c4-485b-8fbb-5e195c946b7c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@id='all-Job Specializations']</value>
+      <webElementGuid>2d84b655-0413-4ea9-9855-0abb7028efdc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='contentContainer']/div/div/div/div/div/div/div[2]/div/form/div/div/div[2]/div[3]/div/div/div[2]/div/div/label/div/div/input</value>
+      <webElementGuid>f1fea3f4-51e3-415e-9fe9-c8406e939d17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label/div/div/input</value>
+      <webElementGuid>4ae07c07-da8f-4e66-b40d-0cc2289ee92c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'checkbox' and @id = 'all-Job Specializations']</value>
+      <webElementGuid>2b7d1421-a515-4b9a-8393-832c7efbab5b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

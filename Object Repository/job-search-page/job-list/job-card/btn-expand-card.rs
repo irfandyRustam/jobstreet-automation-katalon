@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn-expand-card</name>
+   <tag></tag>
+   <elementGuidId>50576430-aa96-4ecb-8187-a0829b5bd0bf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.sx2jih0.zcydq84q.zcydq84w > button.sx2jih0.sx2jih7.zcydq856.zcydq8q.zcydq8o.zcydq8em.zcydq8ea.zcydq85q.zcydq8h.FlL2n_0</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@aria-label='Toggle job shelf links']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>5dcaa83b-5b07-46a1-ae7a-9cc7efca4a5d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sx2jih0 sx2jih7 zcydq856 zcydq8q zcydq8o zcydq8em zcydq8ea zcydq85q zcydq8h FlL2n_0</value>
+      <webElementGuid>fb4bcb9d-a30f-43e2-a4e4-20358763d3dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Toggle job shelf links</value>
+      <webElementGuid>18cdf893-d4ec-400e-83b9-eb9ee1ad76e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-expanded</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>05247a65-c356-464f-adba-e6fd32266fd0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//button[@aria-label='Toggle job shelf links']</value>
+      <webElementGuid>a53073b0-c060-4b99-8194-511c0d607762</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='jobList']/div[2]/div[2]/div/div/div/div/article/div/div/div/div[2]/div/button</value>
+      <webElementGuid>c8cef3f8-4d91-4ed5-9a76-8bfdd5f8a86b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Singapore'])[3]/following::button[1]</value>
+      <webElementGuid>f63e5d89-4d93-49a6-a0dd-335ad69e6d67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ST Engineering Marine Ltd'])[1]/following::button[1]</value>
+      <webElementGuid>a0aa6ff3-2f23-4511-bd3e-212fdb104d8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Job Specializations'])[1]/preceding::button[1]</value>
+      <webElementGuid>870c2270-56d8-4517-9cc2-cf35d3609875</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div[2]/div/button</value>
+      <webElementGuid>c4e4be7a-633d-49f6-a1e7-fb8f9c2face1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

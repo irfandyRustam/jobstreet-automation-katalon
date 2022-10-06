@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>link-New Zealand</name>
+   <tag></tag>
+   <elementGuidId>5551550a-89ce-409e-9c73-1be30c5a8db4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@data-automation='country-switcher-menu']//a[@data-automation='Country - New Zealand']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.sx2jih0.sx2jihf.sx2jih0._1aq6jw0._18qlyvc22.zcydq89i.zcydq88i.zcydq84u.zcydq8p.zcydq8h.zcydq8fy.zcydq85._18qlyvc14._18qlyvc17.zcydq826.zcydq82h</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>b84b491f-aecf-4be0-a3d2-54051a0ee8cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>menuitem</value>
+      <webElementGuid>25488f33-5445-42fe-9551-d67383f944b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>4c27ac73-7146-4d71-9013-b1af042b1ea4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-automation</name>
+      <type>Main</type>
+      <value>Country - New Zealand</value>
+      <webElementGuid>3f803e49-1926-4586-b346-b6df73b562c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sx2jih0 sx2jihf sx2jih0 _1aq6jw0 _18qlyvc22 zcydq89i zcydq88i zcydq84u zcydq8p zcydq8h zcydq8fy zcydq85 _18qlyvc14 _18qlyvc17 zcydq826 zcydq82h</value>
+      <webElementGuid>586d3895-e5e7-4248-bb11-cb32a84b471d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.seek.co.nz/</value>
+      <webElementGuid>c72e9ad3-efd7-4e59-ae2d-edad77d05caf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>New Zealand</value>
+      <webElementGuid>0f4c04d1-3fe4-4256-b8f9-fcad1de1ef55</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@data-automation='country-switcher-menu']//a[@data-automation='Country - New Zealand']</value>
+      <webElementGuid>6d51d10a-3af3-4063-beed-fc3e24cade48</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/div[5]/div/div/div[2]/div/div/div/div/div[2]/div/a[5]</value>
+      <webElementGuid>4a3284a7-ded9-4fe8-aba1-00f533d1da56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Malaysia'])[4]/following::a[1]</value>
+      <webElementGuid>fd16cb94-f368-4c79-9ac6-c1f901c8a676</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Indonesia'])[2]/following::a[2]</value>
+      <webElementGuid>6539e32d-5854-4a61-9c3a-d1e10cbd1526</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Philippines'])[2]/preceding::a[1]</value>
+      <webElementGuid>5bf9f3c8-3bd4-4ad0-80db-ab1d6c8464b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://www.seek.co.nz/')])[2]</value>
+      <webElementGuid>2d06a857-7ac9-48e1-bf09-f8d5374753eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/a[5]</value>
+      <webElementGuid>5d97af1a-5c3d-47f3-906b-94a3b661cb32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.seek.co.nz/' and (text() = 'New Zealand' or . = 'New Zealand')]</value>
+      <webElementGuid>06f57afa-1c7b-45ee-8dd7-363abe7e41be</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

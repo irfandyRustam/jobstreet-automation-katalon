@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>link-Job-applications</name>
+   <tag></tag>
+   <elementGuidId>d4ae0c4b-ee6c-4a3d-aec4-501247ab4c10</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[@data-automation='Job applications'])[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.sx2jih0.sx2jihf.sx2jih0._1aq6jw0._18qlyvc22.zcydq89i.zcydq88i.zcydq84u.zcydq8p.zcydq8h.zcydq8fy.zcydq85._18qlyvc14._18qlyvc17.zcydq826.zcydq82h</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>50c79205-06d1-4e08-a039-0d4de228014a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>menuitem</value>
+      <webElementGuid>a4463878-8eee-4a3a-8da7-60bec83b160b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>4a3436c8-2491-410a-ab94-d4ba021e61db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-automation</name>
+      <type>Main</type>
+      <value>Job applications</value>
+      <webElementGuid>49b5ffbb-f217-4429-84a8-1dabac1ecfa0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sx2jih0 sx2jihf sx2jih0 _1aq6jw0 _18qlyvc22 zcydq89i zcydq88i zcydq84u zcydq8p zcydq8h zcydq8fy zcydq85 _18qlyvc14 _18qlyvc17 zcydq826 zcydq82h</value>
+      <webElementGuid>6e3cf2eb-e44e-4f1a-b047-cf6aa1c3ee9e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://myjobstreet.jobstreet.com.sg/application/application-status.php?view=latest</value>
+      <webElementGuid>9bb7ee33-d5c9-4421-92c9-0fda9c8eae0a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Job applications</value>
+      <webElementGuid>be1c85af-d88d-4d39-a61a-7c285f406c21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//a[@data-automation='Job applications'])[1]</value>
+      <webElementGuid>86cb2be0-062b-44f8-ad0e-8b75eb2e5401</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/div[3]/div/div/div/div[2]/div[2]/div/div/div/div/div[2]/div/a[2]</value>
+      <webElementGuid>df8e96c7-24b2-4e67-a9ec-f1d29f333177</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View profile'])[1]/following::a[1]</value>
+      <webElementGuid>55945505-bda3-43aa-b996-23ba3fa8f55a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Irfandi'])[1]/following::a[2]</value>
+      <webElementGuid>4ee42335-5771-4f7b-b239-68d775e3b178</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Logout'])[1]/preceding::a[1]</value>
+      <webElementGuid>6f408c0c-68db-4430-9308-db524f2fecaf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://myjobstreet.jobstreet.com.sg/application/application-status.php?view=latest')]</value>
+      <webElementGuid>14cacfd2-2ac6-44a2-b148-a7f6c255bb22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div[2]/div/a[2]</value>
+      <webElementGuid>ccd708d7-48e6-44d7-b114-d7d0a37d2dbd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://myjobstreet.jobstreet.com.sg/application/application-status.php?view=latest' and (text() = 'Job applications' or . = 'Job applications')]</value>
+      <webElementGuid>d05a276e-1d69-44d7-b919-175a289acd94</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

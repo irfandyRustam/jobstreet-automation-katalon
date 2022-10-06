@@ -6,6 +6,7 @@
    <UUID>fb1989af-8997-40ac-b3c2-6b9bf614366d</UUID>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>C:\GitHub\jobstreet-automation-katalon\jobstreet-automation-katalon.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>

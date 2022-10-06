@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>text-recent-search-3</name>
+   <tag></tag>
+   <elementGuidId>5dbdcc0e-8d49-48e1-8de3-fcdda2510805</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@data-automation='recent-search-item-2']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>bf759978-9b20-4ac8-b15d-93cd0538bb6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sx2jih0 l3gun70 l3gun73 l3gun71</value>
+      <webElementGuid>3e3409f0-21cb-44f4-8322-9a0bea6e708a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>All jobs</value>
+      <webElementGuid>0cd25e43-b736-4178-afa1-cc3ada455902</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>All jobs</value>
+      <webElementGuid>73d04e2b-9f4c-45d8-bf52-aaa746a45d9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@data-automation='recent-search-item-2']</value>
+      <webElementGuid>1a4d11ae-fb89-43de-8fe4-c455275a4fea</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='contentContainer']/div/div[2]/div/div/div/div[2]/div[3]/a/div/div/div/span[2]/div</value>
+      <webElementGuid>06f7db30-a2ed-4cba-a98f-442a7d9e1b7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All locations'])[2]/following::div[6]</value>
+      <webElementGuid>62820474-1509-4517-875e-42ee567dc91e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='jobstreet.com'])[1]/following::div[9]</value>
+      <webElementGuid>04639314-4100-4051-9097-5bc2a7781b87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All locations'])[3]/preceding::div[1]</value>
+      <webElementGuid>13c838c7-c029-43a6-8f0b-c25857deb6b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Welcome Irfandi'])[1]/preceding::div[5]</value>
+      <webElementGuid>7749e512-b78e-4810-bdd2-6b858dbf8601</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='All jobs']/parent::*</value>
+      <webElementGuid>7d371c67-644b-435a-865f-091a37bdfcec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/a/div/div/div/span[2]/div</value>
+      <webElementGuid>67065b89-ddfb-4aaf-b048-c1492812197d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@title = 'All jobs' and (text() = 'All jobs' or . = 'All jobs')]</value>
+      <webElementGuid>265dd965-4ae4-43c5-9d2e-d8ecbaf17d6d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

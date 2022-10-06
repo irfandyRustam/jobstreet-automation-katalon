@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>link-More jobs from this employer</name>
+   <tag></tag>
+   <elementGuidId>075da099-5aaa-4473-8fb1-02898f432846</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@data-automation='jobDetailsMoreRelatedJobs']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.sx2jih0.zcydq896.zcydq886 > span.sx2jih0.zcydq84u._18qlyvc0._18qlyvc1x._18qlyvc1._1d0g9qk4._18qlyvcb > a._1hr6tkx5._1hr6tkx8._1hr6tkxb.sx2jih0.sx2jihf.zcydq8h</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>9f911b69-42d4-41a2-a232-0a2ec8f15a9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/en/job-search/jobs-at-stellar-lifestyle-pte.-ltd./</value>
+      <webElementGuid>e7b31900-ba4d-4c00-80c9-6cb4f04edb47</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-automation</name>
+      <type>Main</type>
+      <value>jobDetailsMoreRelatedJobs</value>
+      <webElementGuid>22d794a7-9f1e-496d-a83e-1cd2c69cc9a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_1hr6tkx5 _1hr6tkx8 _1hr6tkxb sx2jih0 sx2jihf zcydq8h</value>
+      <webElementGuid>983a2c37-1c88-4ea9-b615-382c4ed92f7a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>More jobs from this employer</value>
+      <webElementGuid>6c3a6c9c-e71d-45e6-9865-068cb3d0c482</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//a[@data-automation='jobDetailsMoreRelatedJobs']</value>
+      <webElementGuid>1120685a-3a6d-4848-aa81-adc1138ba2dc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='contentContainer']/div[2]/div/div/div/div[2]/div/div/div/div[2]/div/div[3]/div[2]/span/a</value>
+      <webElementGuid>6bf74f06-cbd6-4071-a37e-6c7798d9a826</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'More jobs from this employer')]</value>
+      <webElementGuid>047674e5-a834-4d07-b93a-cf693cc873ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transportation / Logistics'])[1]/following::a[1]</value>
+      <webElementGuid>decb0973-dbcf-474d-95a0-96a604b1ee0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Industry'])[1]/following::a[1]</value>
+      <webElementGuid>f8ff03e3-f866-4c33-bfd2-b96d97abb317</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Report this job ad'])[1]/preceding::a[1]</value>
+      <webElementGuid>76e15144-2884-4171-a0b3-44432956cecd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Singapore'])[20]/preceding::a[2]</value>
+      <webElementGuid>fd4bf522-03ad-45b6-b973-93fd1faad784</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='More jobs from this employer']/parent::*</value>
+      <webElementGuid>b624161d-8486-4bf6-a525-e10f7df593c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/en/job-search/jobs-at-stellar-lifestyle-pte.-ltd./')])[2]</value>
+      <webElementGuid>b497a799-a330-4eb7-8f65-049b486fd21f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/span/a</value>
+      <webElementGuid>6bc4f061-d253-4af3-bfd8-e1ec23e69174</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/en/job-search/jobs-at-stellar-lifestyle-pte.-ltd./' and (text() = 'More jobs from this employer' or . = 'More jobs from this employer')]</value>
+      <webElementGuid>494fc29e-90fe-48e4-8a6f-b88b069ed292</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

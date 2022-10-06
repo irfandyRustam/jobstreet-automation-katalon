@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>text-salary</name>
+   <tag></tag>
+   <elementGuidId>11d2ab4a-2d08-45a9-8d12-1125b7ed940f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@data-automation='job-card-logo']/following-sibling::span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@data-automation='job-card-logo']/following-sibling::span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7717d63a-14db-4f90-933c-74b7ea1dd3b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sx2jih0 zcydq84u _18qlyvc0 _18qlyvc1x _18qlyvc3 _18qlyvc7</value>
+      <webElementGuid>012100d7-4e17-402c-8eba-0a2ea9961a25</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SGD 4.3K - 6K monthly</value>
+      <webElementGuid>ecf8a14d-f3ab-4192-a57b-a01397d7619b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@data-automation='job-card-logo']/following-sibling::span[2]</value>
+      <webElementGuid>51d364e0-23ee-4ea1-b97b-ad73a7c8e221</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='jobList']/div[2]/div[2]/div/div[10]/div/div/article/div/div/div/div/span[2]</value>
+      <webElementGuid>42e3307a-af33-42d1-9d25-9d0afa74b90c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Orchard'])[1]/following::span[1]</value>
+      <webElementGuid>148342d6-2139-46f1-b4d9-10c3a9f4dbce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Smartidea Pte Ltd'])[1]/following::span[3]</value>
+      <webElementGuid>b08a9daa-2880-4de1-beb2-dcb99f167238</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Work-life balance'])[1]/preceding::span[1]</value>
+      <webElementGuid>f8282b56-a11f-4f63-87eb-450b735cec12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='In house and external training provided to upkeep latest IT skill'])[1]/preceding::span[2]</value>
+      <webElementGuid>720f56d1-e498-4d13-bc92-0f1622340e90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='SGD 4.3K - 6K monthly']/parent::*</value>
+      <webElementGuid>3bf35613-fcdb-492c-81ad-2e49f57d111e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[10]/div/div/article/div/div/div/div/span[2]</value>
+      <webElementGuid>304fdf8c-dbbc-4386-930e-fb54d6375402</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'SGD 4.3K - 6K monthly' or . = 'SGD 4.3K - 6K monthly')]</value>
+      <webElementGuid>222d3c43-5705-4a0b-a4ce-38dce20eb124</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
