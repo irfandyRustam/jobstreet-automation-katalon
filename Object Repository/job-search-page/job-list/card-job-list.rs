@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>card-job-list</name>
+   <tag></tag>
+   <elementGuidId>7f7558fe-fe98-4152-9ef8-89150d943abc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//article[contains(@data-automation, 'job-card')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.sx2jih0.zcydq876.zcydq866.zcydq896.zcydq886.zcydq8n.zcydq856.zcydq8f6.zcydq8eu</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>abf7310a-2d32-420c-ad5c-f72d4bca4bbd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sx2jih0 zcydq876 zcydq866 zcydq896 zcydq886 zcydq8n zcydq856 zcydq8f6 zcydq8eu</value>
+      <webElementGuid>dad264ce-6ce6-4e97-bf8c-0b8d01b55247</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Assistant Principal Engineer-QA &amp; Commissioning (Electrical &amp; Automation Systems)ST Engineering Marine LtdSingapore4d ago</value>
+      <webElementGuid>b07f32ac-1ac0-4814-b7f0-9e6cc3107367</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//article[contains(@data-automation, 'job-card')]</value>
+      <webElementGuid>e1d50262-14a8-495e-978e-50de7b269943</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='jobList']/div[2]/div[2]/div/div/div/div/article/div/div/div</value>
+      <webElementGuid>b6997e5d-8c6a-402d-8553-92bcf8e1af5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='software testing jobs'])[1]/following::div[13]</value>
+      <webElementGuid>d942013e-f142-4789-b37b-6c0e386199a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//article/div/div/div</value>
+      <webElementGuid>f6647ed3-85d7-401e-8b91-30b814472f97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Assistant Principal Engineer-QA &amp; Commissioning (Electrical &amp; Automation Systems)ST Engineering Marine LtdSingapore4d ago' or . = 'Assistant Principal Engineer-QA &amp; Commissioning (Electrical &amp; Automation Systems)ST Engineering Marine LtdSingapore4d ago')]</value>
+      <webElementGuid>bb3ea272-04c5-4416-9667-8d0b22aabc65</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

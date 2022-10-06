@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>text-details-header</name>
+   <tag></tag>
+   <elementGuidId>d6a4f869-a54c-4e6d-81e6-6ec3434cd1be</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@data-automation='jobDetailsHeader']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h1.sx2jih0._18qlyvc0._18qlyvch._1d0g9qk4._18qlyvcp._18qlyvc1x</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>abfd345d-2bca-460b-9417-956f29cda117</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sx2jih0 _18qlyvc0 _18qlyvch _1d0g9qk4 _18qlyvcp _18qlyvc1x</value>
+      <webElementGuid>a21739a3-ddbc-4e1e-9006-b41682f4d1fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Senior Automation testing Engineer</value>
+      <webElementGuid>42203142-233b-4ab8-89d2-8c459ab37dba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@data-automation='jobDetailsHeader']</value>
+      <webElementGuid>0cff1fe1-4317-4181-a290-a902b34b530c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='contentContainer']/div[2]/div/div/div/div[2]/div/div/div/div[2]/div/div/div/div/div/div/div/div/div/div[2]/div/div/div/div/h1</value>
+      <webElementGuid>79c5094a-bac2-4a00-9242-9a2fdebaa84c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[1]/following::h1[1]</value>
+      <webElementGuid>3ed25304-c476-48f9-8e4d-7946d4773e4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View in new tab'])[1]/following::h1[1]</value>
+      <webElementGuid>6e377eba-a6a0-4c3c-9ef5-209604cfc1e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tata Consultancy Services Asia Pacific Pte Ltd'])[2]/preceding::h1[1]</value>
+      <webElementGuid>bceb3c7d-8c8b-406e-a770-abbebebdff3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Serangoon'])[2]/preceding::h1[1]</value>
+      <webElementGuid>fda9476b-1baa-4b44-8eae-19f20555ff1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/h1</value>
+      <webElementGuid>6dd41f63-7e76-489a-87c4-a26216637382</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'Senior Automation testing Engineer' or . = 'Senior Automation testing Engineer')]</value>
+      <webElementGuid>4935ad91-4122-43c2-9c50-9b4f757a73c3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

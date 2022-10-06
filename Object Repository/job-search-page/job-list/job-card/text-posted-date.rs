@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>text-posted-date</name>
+   <tag></tag>
+   <elementGuidId>8ee44b6c-60ed-47c3-b37b-7f802ef2f452</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='jobList']/div[2]/div[2]/div/div[10]/div/div/article/div/div/div/div[2]/time/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>6feb6fdf-71a2-4146-8645-70e5b0eef442</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sx2jih0 zcydq84u _18qlyvc0 _18qlyvc1y _18qlyvc1 _18qlyvc7</value>
+      <webElementGuid>454eb8c7-a00b-4ee1-8377-33869cce784c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>4d ago</value>
+      <webElementGuid>e7158d1d-bb48-400f-9aee-dd2fb36354fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;jobList&quot;)/div[@class=&quot;sx2jih0 z0qC4_0&quot;]/div[@class=&quot;sx2jih0 zcydq8bm&quot;]/div[@class=&quot;sx2jih0&quot;]/div[10]/div[@class=&quot;sx2jih0 zcydq89e zcydq88e zcydq872 zcydq87e&quot;]/div[1]/article[@class=&quot;sx2jih0 sx2jih1 zcydq85u zcydq8h c6ROG_0 _18qlyvc14 _18qlyvc17 zcydq832 zcydq835&quot;]/div[@class=&quot;sx2jih0 zcydq856 zcydq8f6 zcydq8n zcydq80 zcydq85u&quot;]/div[@class=&quot;sx2jih0 zcydq8n lmSnC_0&quot;]/div[@class=&quot;sx2jih0 zcydq876 zcydq866 zcydq896 zcydq886 zcydq8n zcydq856 zcydq8f6 zcydq8eu&quot;]/div[@class=&quot;sx2jih0 zcydq856 zcydq8eu zcydq8ea zcydq8a6&quot;]/time[@class=&quot;sx2jih0 zcydq84u&quot;]/span[@class=&quot;sx2jih0 zcydq84u _18qlyvc0 _18qlyvc1y _18qlyvc1 _18qlyvc7&quot;]</value>
+      <webElementGuid>6ef0e52e-ba43-41fb-ac2d-30e55e628739</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='jobList']/div[2]/div[2]/div/div[10]/div/div/article/div/div/div/div[2]/time/span</value>
+      <webElementGuid>325f37fe-915f-4ac1-a679-d84b556dc0cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Friendly and warm working environment'])[1]/following::span[1]</value>
+      <webElementGuid>5200b3c6-5d7a-4eee-bb0a-613d563048a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='In house and external training provided to upkeep latest IT skill'])[1]/following::span[2]</value>
+      <webElementGuid>7dd1598a-f087-46e8-94e5-eb167ce196e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Job Specializations'])[10]/preceding::span[2]</value>
+      <webElementGuid>f90ce039-7160-4d61-8b5b-069aa5a8cbd6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='4d ago']/parent::*</value>
+      <webElementGuid>e5892f8b-f946-4e5f-b113-bdadd76a73ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[10]/div/div/article/div/div/div/div[2]/time/span</value>
+      <webElementGuid>8979a801-0564-4ebb-a303-e84187d65a19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '4d ago' or . = '4d ago')]</value>
+      <webElementGuid>0dec1361-b2df-44aa-8ab2-fb107b43f95f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

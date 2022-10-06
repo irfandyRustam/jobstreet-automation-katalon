@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>text-company-name</name>
+   <tag></tag>
+   <elementGuidId>29947121-e2dc-4a73-acb0-82eee4cee372</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='jobList']/div[2]/div[2]/div/div[2]/div/div/article/div/div/div/div/div[3]/span/span/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>843e81b0-db79-455c-bda2-320554a5d0d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/en/job-search/jobs-at-stellar-lifestyle-pte.-ltd./</value>
+      <webElementGuid>2cef2bcd-d28e-48ad-b444-4dc9e1a17c96</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rel</name>
+      <type>Main</type>
+      <value>nofollow</value>
+      <webElementGuid>ea31d4c5-2789-4dc6-91be-72310f8e4382</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-automation</name>
+      <type>Main</type>
+      <value>jobCardCompanyLink</value>
+      <webElementGuid>ec0cb416-230b-4ff7-9b03-b50faa96eebe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Show more jobs at Stellar Lifestyle Pte. Ltd.</value>
+      <webElementGuid>1989a88e-59e4-4bcc-a2b1-8e8f03b04a6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sx2jih0 sx2jihf QytTO</value>
+      <webElementGuid>5ba450ea-0fdf-4edb-af36-2d1ba8be5688</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Stellar Lifestyle Pte. Ltd.</value>
+      <webElementGuid>d0977819-7792-4cfb-8e8a-a4895379234f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;jobList&quot;)/div[@class=&quot;sx2jih0 z0qC4_0&quot;]/div[@class=&quot;sx2jih0 zcydq8bm&quot;]/div[@class=&quot;sx2jih0&quot;]/div[2]/div[@class=&quot;sx2jih0 zcydq89e zcydq88e zcydq872 zcydq87e&quot;]/div[1]/article[@class=&quot;sx2jih0 sx2jih1 zcydq85u zcydq8h c6ROG_0 _18qlyvc14 _18qlyvc17 zcydq832 zcydq835&quot;]/div[@class=&quot;sx2jih0 zcydq856 zcydq8f6 zcydq8n zcydq80 zcydq85u&quot;]/div[@class=&quot;sx2jih0 zcydq8n&quot;]/div[@class=&quot;sx2jih0 zcydq876 zcydq866 zcydq896 zcydq886 zcydq8n zcydq856 zcydq8f6 zcydq8eu&quot;]/div[@class=&quot;sx2jih0&quot;]/div[@class=&quot;sx2jih0 zcydq8bm&quot;]/span[@class=&quot;sx2jih0 zcydq84u _18qlyvc0 _18qlyvc1x _18qlyvc1 _18qlyvc7&quot;]/span[@class=&quot;sx2jih0 zcydq84u zcydq80 iwjz4h0&quot;]/a[@class=&quot;sx2jih0 sx2jihf QytTO&quot;]</value>
+      <webElementGuid>b20afd72-004c-4af7-a93c-b66c011c197b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='jobList']/div[2]/div[2]/div/div[2]/div/div/article/div/div/div/div/div[3]/span/span/a</value>
+      <webElementGuid>624091f0-d461-44c4-93da-d5c859b2e0a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Stellar Lifestyle Pte. Ltd.')]</value>
+      <webElementGuid>9107b50b-284d-4d3f-9ec3-684c487b1fda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Automation QA Engineer And Tester (Staytion)'])[1]/following::a[1]</value>
+      <webElementGuid>e30a105d-35fc-4ac6-a662-baa6662111dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Full-Time'])[1]/following::a[2]</value>
+      <webElementGuid>53184b09-f695-4e44-99b5-4248548b04ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Singapore'])[4]/preceding::a[1]</value>
+      <webElementGuid>81865acb-c1a9-4da6-a173-085ad8852eb7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Stellar Lifestyle Pte. Ltd.']/parent::*</value>
+      <webElementGuid>9bf491fa-3e3c-4bdb-b11a-f8cd0b70edcc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/en/job-search/jobs-at-stellar-lifestyle-pte.-ltd./')]</value>
+      <webElementGuid>22fcf4dd-7f86-45de-834f-2a449514a820</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/article/div/div/div/div/div[3]/span/span/a</value>
+      <webElementGuid>a13d1716-94ce-44ec-88f0-4077b76cb0ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/en/job-search/jobs-at-stellar-lifestyle-pte.-ltd./' and @title = 'Show more jobs at Stellar Lifestyle Pte. Ltd.' and (text() = 'Stellar Lifestyle Pte. Ltd.' or . = 'Stellar Lifestyle Pte. Ltd.')]</value>
+      <webElementGuid>2577c32d-282d-4c0c-b82b-4b19c6ef434d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

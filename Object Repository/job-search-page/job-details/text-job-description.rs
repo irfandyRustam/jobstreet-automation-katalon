@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>text-job-description</name>
+   <tag></tag>
+   <elementGuidId>2d276690-1977-45c8-9de5-05bdfe8928bf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@data-automation='jobDescription']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p > strong</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>strong</value>
+      <webElementGuid>e458ca50-3a7d-4fa1-859b-d1da01b33741</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Job Description:</value>
+      <webElementGuid>1a159453-0caf-48ab-979b-72a52a340c76</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@data-automation='jobDescription']</value>
+      <webElementGuid>30622534-eff5-4038-baa1-5ed6a4c6af95</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='contentContainer']/div[2]/div/div/div/div[2]/div/div/div/div[2]/div/div[2]/div/div/div/div/div/div[2]/div/span/div/p/strong</value>
+      <webElementGuid>a90eedac-de7b-49e3-8d24-6b740b33002e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Job Description'])[1]/following::strong[1]</value>
+      <webElementGuid>476b8dfe-db21-453f-8116-e142defc829d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Posted on 28-Sep-22'])[1]/following::strong[1]</value>
+      <webElementGuid>2add55eb-f939-4c6d-a753-06fe177fed66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Minimum 7-8 years of experience in Manual and Automation testing. (Must Have)'])[1]/preceding::strong[1]</value>
+      <webElementGuid>c2bae56b-5268-4bcd-ad37-bf6610386532</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Job Description:']/parent::*</value>
+      <webElementGuid>52d1c530-48cf-41e4-8115-5b93cefa39e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p/strong</value>
+      <webElementGuid>21d9925c-fa76-4444-aee6-6e26bed9d12a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//strong[(text() = 'Job Description:' or . = 'Job Description:')]</value>
+      <webElementGuid>d243e6e6-007b-4765-9cad-ec7c10ecc789</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
