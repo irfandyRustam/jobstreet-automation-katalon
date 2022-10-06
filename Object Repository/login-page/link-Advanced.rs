@@ -1,21 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>text-location</name>
+   <name>link-Advanced</name>
    <tag></tag>
-   <elementGuidId>75e22100-7553-4af6-9afb-7b67d5f58cfb</elementGuidId>
+   <elementGuidId>3d13c1b8-6f37-4ab6-a1b2-78c4bffe50ec</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@data-automation='job-card-logo']/following-sibling::span[1]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
-         <value></value>
+         <value>#header_advancesearch_link</value>
       </entry>
       <entry>
-         <key>BASIC</key>
-         <value>//div[@data-automation='job-card-logo']/following-sibling::span[1]</value>
+         <key>XPATH</key>
+         <value>//a[@id='header_advancesearch_link']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -26,134 +22,142 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>dba3db76-1061-42aa-952e-665bf3fb0a3e</webElementGuid>
+      <webElementGuid>12b697bc-bc0c-4303-adcf-68a38c38e2c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>header_advancesearch_link</value>
+      <webElementGuid>4a659aa5-700f-4e7a-9334-70304368f964</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>/en/job-search/qa-automation-jobs-in-orchard/</value>
-      <webElementGuid>9036436c-d91d-45b5-a52d-415e7d3a6f4e</webElementGuid>
+      <value>https://www.jobstreet.com.my/en/job-search/advanced.php?</value>
+      <webElementGuid>bb9c6696-026f-4a38-85a8-a81cee63ec12</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>data-automation</name>
+      <name>onclick</name>
       <type>Main</type>
-      <value>jobCardLocationLink</value>
-      <webElementGuid>11d09378-be6a-45e3-8c98-663f156e2dd3</webElementGuid>
+      <value>_gaq.push(['_trackEvent', 'JSMY Personalized Homepage', 'Advanced Search page clicked', 'New Header']);</value>
+      <webElementGuid>2d11dfe6-b153-4caa-ad18-1295f80a8b80</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>title</name>
       <type>Main</type>
-      <value>Limit results to Orchard in Central</value>
-      <webElementGuid>3cb47e27-4b89-4693-a1cc-02cfe4e940b5</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>sx2jih0 sx2jihf QytTO</value>
-      <webElementGuid>d3042442-b202-40d8-be3a-9c0ecc9c8182</webElementGuid>
+      <value>Advanced Job Search Malaysia@ JobStreet.com Malaysia</value>
+      <webElementGuid>c9d99921-41ca-4617-accd-d3c33fc19daa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Orchard</value>
-      <webElementGuid>8a92166b-8a35-4db4-8052-d5910c383ab3</webElementGuid>
+      <value>Advanced</value>
+      <webElementGuid>31975997-df01-422b-bd79-90c3ff425bd5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//div[@data-automation='job-card-logo']/following-sibling::span[1]</value>
-      <webElementGuid>1213067b-c51a-4b75-8c12-617bb6ca0409</webElementGuid>
+      <value>//a[@id='header_advancesearch_link']</value>
+      <webElementGuid>023307a8-27bc-4245-a493-1d460460d858</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='header_advancesearch_link']</value>
+      <webElementGuid>9753c876-ef78-4273-a194-b666d2c95148</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='jobList']/div[2]/div[2]/div/div[10]/div/div/article/div/div/div/div/span/span/a</value>
-      <webElementGuid>c91cd7aa-5fae-4766-97fa-b8c9cbc518d5</webElementGuid>
+      <value>//div[@id='myjs_header']/div/div[2]/div/div/div[3]/a</value>
+      <webElementGuid>2454ee36-29cd-4e7a-b2d1-6bbadb6cee0a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:link</name>
       <type>Main</type>
-      <value>//a[contains(text(),'Orchard')]</value>
-      <webElementGuid>89a09952-1461-441a-8122-60dcae486718</webElementGuid>
+      <value>//a[contains(text(),'Advanced')]</value>
+      <webElementGuid>8f529f34-de5d-45f7-81c3-ffa1ea66107d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Smartidea Pte Ltd'])[1]/following::a[1]</value>
-      <webElementGuid>ff8c9fb1-1962-4bb7-baf9-109e5b9a8cc9</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Classified Jobs'])[1]/following::a[3]</value>
+      <webElementGuid>8961d9e9-3fe5-4f43-8d89-453541c10e0d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Software QA Engineer'])[1]/following::a[2]</value>
-      <webElementGuid>0a061575-c053-4d0e-b641-0cb4288506aa</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fresh Grad Jobs'])[1]/following::a[4]</value>
+      <webElementGuid>d2518953-3f6b-475f-96c9-feac8fba28c4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='SGD 4.3K - 6K monthly'])[1]/preceding::a[1]</value>
-      <webElementGuid>729d2aef-be09-4432-ac39-48daa376e0f0</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Employers'])[1]/preceding::a[1]</value>
+      <webElementGuid>0f80cec9-52f0-442b-aa85-ab283f2c8a06</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Work-life balance'])[1]/preceding::a[1]</value>
-      <webElementGuid>1691f90e-08ef-474f-8bfe-74a47e3eebae</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Candidate Login'])[1]/preceding::a[2]</value>
+      <webElementGuid>fd1440e4-208d-4743-946e-921e38aed945</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Orchard']/parent::*</value>
-      <webElementGuid>ea9d8cc4-6d7e-4a68-bcf3-99066f64bb66</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Advanced']/parent::*</value>
+      <webElementGuid>b7a29fa9-579d-49b4-9c5c-662f0a1be08d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
       <type>Main</type>
-      <value>//a[contains(@href, '/en/job-search/qa-automation-jobs-in-orchard/')]</value>
-      <webElementGuid>a13e9554-31e3-44a3-b969-f3ab7b24c476</webElementGuid>
+      <value>//a[contains(@href, 'https://www.jobstreet.com.my/en/job-search/advanced.php?')]</value>
+      <webElementGuid>5ddc3292-c2f1-4805-9728-000634174d68</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[10]/div/div/article/div/div/div/div/span/span/a</value>
-      <webElementGuid>7452f1bc-a540-4b81-baa7-562975fa76b8</webElementGuid>
+      <value>//div[3]/a</value>
+      <webElementGuid>3e4df4a8-1076-4f20-9be5-b23386f81942</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = '/en/job-search/qa-automation-jobs-in-orchard/' and @title = 'Limit results to Orchard in Central' and (text() = 'Orchard' or . = 'Orchard')]</value>
-      <webElementGuid>4b9c9b09-b409-41bc-b831-4367f2b379a4</webElementGuid>
+      <value>//a[@id = 'header_advancesearch_link' and @href = 'https://www.jobstreet.com.my/en/job-search/advanced.php?' and @title = 'Advanced Job Search Malaysia@ JobStreet.com Malaysia' and (text() = 'Advanced' or . = 'Advanced')]</value>
+      <webElementGuid>3da05670-d702-4441-8e83-47e21bbbbaf6</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,21 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>text-position-name</name>
+   <name>link-Forgot-password</name>
    <tag></tag>
-   <elementGuidId>98e53ae6-64a3-4dae-9a64-8e1d0ad0537c</elementGuidId>
+   <elementGuidId>5a442ef5-de4d-411f-97f5-f8904db51643</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//article[contains(@data-automation, 'job-card')]//h1</value>
-      </entry>
-      <entry>
          <key>CSS</key>
-         <value></value>
+         <value>#span_forgot_password > a</value>
       </entry>
       <entry>
-         <key>BASIC</key>
-         <value>//article[contains(@data-automation, 'job-card')]//h1</value>
+         <key>XPATH</key>
+         <value>//span[@id='span_forgot_password']/a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -25,95 +21,103 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>span</value>
-      <webElementGuid>c5147fd3-8ee8-4051-8dde-8422a0db7b54</webElementGuid>
+      <value>a</value>
+      <webElementGuid>b3e3cb9b-8bf6-4d42-8805-37ce7650b710</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>class</name>
+      <name>href</name>
       <type>Main</type>
-      <value>sx2jih0</value>
-      <webElementGuid>8eeddaa9-3be7-4618-9864-ef8fe3203fd0</webElementGuid>
+      <value>https://myjobstreet.jobstreet.com.my/home/forgot-password.php?site=my&amp;language_code=3</value>
+      <webElementGuid>16f16516-b9a0-4e0c-802c-c6086fc68b1a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Software QA Engineer</value>
-      <webElementGuid>a68f10de-5761-49fa-a2c8-77405deea3c7</webElementGuid>
+      <value>Forgot?</value>
+      <webElementGuid>8db38445-a7bd-4f2a-86fc-4e955adbd17e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//article[contains(@data-automation, 'job-card')]//h1</value>
-      <webElementGuid>bd0367d3-768f-4392-a7db-7e366ae74fee</webElementGuid>
+      <value>//span[@id='span_forgot_password']/a</value>
+      <webElementGuid>55e535b9-b7e2-423f-aae7-e46b01ee6376</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='jobList']/div[2]/div[2]/div/div[10]/div/div/article/div/div/div/div/div[3]/h1/a/div/span</value>
-      <webElementGuid>3a16ee86-1b22-4911-b2d9-0493b45eb20b</webElementGuid>
+      <value>//span[@id='span_forgot_password']/a</value>
+      <webElementGuid>2c57f3d4-137e-4487-8b35-bde779d3abc7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Forgot?')]</value>
+      <webElementGuid>ee00b553-b8c0-4548-97bc-14b10d57d628</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Full-Time'])[8]/following::span[1]</value>
-      <webElementGuid>0d5a8496-317f-4e3c-83f1-934da24bd84d</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remember me'])[1]/following::a[1]</value>
+      <webElementGuid>eb8027d3-0653-4456-af3f-5aecb00de3f1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Job Type'])[9]/following::span[1]</value>
-      <webElementGuid>2b4f6211-7522-4809-95ac-643ae9e7d5d0</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OR'])[1]/following::a[1]</value>
+      <webElementGuid>e8d63bbf-94f2-493b-80af-0528c9e200fc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Smartidea Pte Ltd'])[1]/preceding::span[1]</value>
-      <webElementGuid>d853a992-0438-460b-aeed-dd8eea8c2eab</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log In'])[1]/preceding::a[1]</value>
+      <webElementGuid>5a1036a3-9908-4232-a892-41f7ce75e9da</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Orchard'])[1]/preceding::span[3]</value>
-      <webElementGuid>bded27a7-106f-407a-932a-db86eadb15a6</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Forgot?']/parent::*</value>
+      <webElementGuid>a17e0aea-3c6a-4ed4-8960-da833f7cd213</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
+      <name>xpath:href</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Software QA Engineer']/parent::*</value>
-      <webElementGuid>c20afb99-c55b-44ed-bd66-75a3f7b62a10</webElementGuid>
+      <value>//a[contains(@href, 'https://myjobstreet.jobstreet.com.my/home/forgot-password.php?site=my&amp;language_code=3')]</value>
+      <webElementGuid>2192b69c-9f13-4c44-b6c9-fe5c3b9441c8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[10]/div/div/article/div/div/div/div/div[3]/h1/a/div/span</value>
-      <webElementGuid>93872248-e3da-46cb-9563-8bf84399dc88</webElementGuid>
+      <value>//span[2]/a</value>
+      <webElementGuid>86b17d5d-f648-48d5-a72a-852863d6167f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//span[(text() = 'Software QA Engineer' or . = 'Software QA Engineer')]</value>
-      <webElementGuid>6fa3cbd2-c58b-4223-8ddd-cb8dbef58686</webElementGuid>
+      <value>//a[@href = 'https://myjobstreet.jobstreet.com.my/home/forgot-password.php?site=my&amp;language_code=3' and (text() = 'Forgot?' or . = 'Forgot?')]</value>
+      <webElementGuid>c3ce9f68-943a-4692-90e4-6ce401f096e2</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

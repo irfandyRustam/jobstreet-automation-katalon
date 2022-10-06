@@ -1,21 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>text-position-name</name>
+   <name>btn-explore-site</name>
    <tag></tag>
-   <elementGuidId>98e53ae6-64a3-4dae-9a64-8e1d0ad0537c</elementGuidId>
+   <elementGuidId>d36630af-0e35-4530-becb-e4fd321fa5e4</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//article[contains(@data-automation, 'job-card')]//h1</value>
-      </entry>
-      <entry>
          <key>CSS</key>
-         <value></value>
+         <value>div.sx2jih0._3cjezf5.zcydq87u > span.sx2jih0.zcydq84u._18qlyvc0._18qlyvc1x._18qlyvc1._1d0g9qk4._18qlyvc8 > div.sx2jih0.zcydq8ea.zcydq856.zcydq8eu > div.sx2jih0._17fduda0._17fduda3 > div.sx2jih0.zcydq8fe.zcydq856.zcydq8ey.zcydq8ea._17fduda23 > div.sx2jih0.zcydq8r.zcydq8da.zcydq8aa.zcydq84u.zcydq8ei</value>
       </entry>
       <entry>
-         <key>BASIC</key>
-         <value>//article[contains(@data-automation, 'job-card')]//h1</value>
+         <key>XPATH</key>
+         <value>//div[@data-automation='Collapsed Footer']//div[contains(text(),'Explore site')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -25,95 +21,95 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>span</value>
-      <webElementGuid>c5147fd3-8ee8-4051-8dde-8422a0db7b54</webElementGuid>
+      <value>div</value>
+      <webElementGuid>65f74039-5477-4902-a29d-dac824d14954</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>sx2jih0</value>
-      <webElementGuid>8eeddaa9-3be7-4618-9864-ef8fe3203fd0</webElementGuid>
+      <value>sx2jih0 zcydq8r zcydq8da zcydq8aa zcydq84u zcydq8ei</value>
+      <webElementGuid>7e505042-9886-4060-8161-ca2652926dcf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Software QA Engineer</value>
-      <webElementGuid>a68f10de-5761-49fa-a2c8-77405deea3c7</webElementGuid>
+      <value>Explore site</value>
+      <webElementGuid>c62ed1ee-b7a5-4870-b85d-9fda0b58595c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//article[contains(@data-automation, 'job-card')]//h1</value>
-      <webElementGuid>bd0367d3-768f-4392-a7db-7e366ae74fee</webElementGuid>
+      <value>//div[@data-automation='Collapsed Footer']//div[contains(text(),'Explore site')]</value>
+      <webElementGuid>e83519c7-5e37-49b6-bb1a-cd74d423da8e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='jobList']/div[2]/div[2]/div/div[10]/div/div/article/div/div/div/div/div[3]/h1/a/div/span</value>
-      <webElementGuid>3a16ee86-1b22-4911-b2d9-0493b45eb20b</webElementGuid>
+      <value>//div[@id='app']/div/div/div[3]/div/div/div/div/div[2]/span/div/div/div/div</value>
+      <webElementGuid>1608fa5a-ba08-428b-b2ab-7777760cdc88</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Full-Time'])[8]/following::span[1]</value>
-      <webElementGuid>0d5a8496-317f-4e3c-83f1-934da24bd84d</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Copyright © 2022 JobStreet'])[1]/following::div[5]</value>
+      <webElementGuid>a13c1cac-7b3e-4d71-acc1-c207d03aeecd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Job Type'])[9]/following::span[1]</value>
-      <webElementGuid>2b4f6211-7522-4809-95ac-643ae9e7d5d0</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thailand'])[2]/following::div[9]</value>
+      <webElementGuid>bfd7bb42-00ad-4376-a9b6-40a7705dbc98</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Smartidea Pte Ltd'])[1]/preceding::span[1]</value>
-      <webElementGuid>d853a992-0438-460b-aeed-dd8eea8c2eab</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Job seekers'])[1]/preceding::div[2]</value>
+      <webElementGuid>6f79a5a2-9d22-43d1-a424-387e605f0331</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Orchard'])[1]/preceding::span[3]</value>
-      <webElementGuid>bded27a7-106f-407a-932a-db86eadb15a6</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jobs by specialization'])[1]/preceding::div[3]</value>
+      <webElementGuid>243ae84f-d4fd-44ab-9001-1390744df2cb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Software QA Engineer']/parent::*</value>
-      <webElementGuid>c20afb99-c55b-44ed-bd66-75a3f7b62a10</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Explore site']/parent::*</value>
+      <webElementGuid>bc29dce8-3d86-4eb8-adab-3843cbe8f004</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[10]/div/div/article/div/div/div/div/div[3]/h1/a/div/span</value>
-      <webElementGuid>93872248-e3da-46cb-9563-8bf84399dc88</webElementGuid>
+      <value>//div[2]/span/div/div/div/div</value>
+      <webElementGuid>13fa56e4-2768-461a-87a3-6d926fa6dc8e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//span[(text() = 'Software QA Engineer' or . = 'Software QA Engineer')]</value>
-      <webElementGuid>6fa3cbd2-c58b-4223-8ddd-cb8dbef58686</webElementGuid>
+      <value>//div[(text() = 'Explore site' or . = 'Explore site')]</value>
+      <webElementGuid>e1b50b65-e33f-4032-ad3a-917a7dd21c9a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
