@@ -7,7 +7,11 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(//a[@data-automation='Search Job'])[1]</value>
+         <value>(//a[@data-automation='Search Job'])[1] |  //a[@id='header_job_link']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>(//a[@data-automation='Search Job'])[1] |  //a[@id='header_job_link']</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>8d4fa33a-b80c-4402-8812-52210d9634e3</webElementGuid>
+      <webElementGuid>a430b1fa-d8e9-4573-bdf2-dfdb86549e1a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +34,7 @@
       <name>class</name>
       <type>Main</type>
       <value>sx2jih0 rdmf23</value>
-      <webElementGuid>18b2b205-778b-4c99-a6fc-fd7b219a34ef</webElementGuid>
+      <webElementGuid>87740505-53eb-4b24-8d9d-087a1a1df8da</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +42,7 @@
       <name>data-title</name>
       <type>Main</type>
       <value>Job search</value>
-      <webElementGuid>cbff8d73-18c3-415e-bbaa-1b1c2489cb2c</webElementGuid>
+      <webElementGuid>09b12c0b-eeab-40db-973d-7255993b58cb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,15 +50,15 @@
       <name>text</name>
       <type>Main</type>
       <value>Job search</value>
-      <webElementGuid>9501c5d0-8a94-4303-b1fd-de583622fb40</webElementGuid>
+      <webElementGuid>e282488d-d7fb-422a-9fb1-3cf21b194f8a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>(//a[@data-automation='Search Job'])[1]</value>
-      <webElementGuid>5154f566-8fe1-48c1-bb5f-365b8e41d28b</webElementGuid>
+      <value>(//a[@data-automation='Search Job'])[1] |  //a[@id='header_job_link']</value>
+      <webElementGuid>90edd833-7f52-4db7-a202-6f8583e331fb</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +66,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='app']/div/div/div[3]/div/div/div/div/div[2]/div/a/span/span/span</value>
-      <webElementGuid>36edc93c-6a20-4a73-a8ed-58a4fcde3acd</webElementGuid>
+      <webElementGuid>44783924-9ca9-45cf-8069-ceab760bcdb0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +74,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='JobStreet'])[1]/following::span[3]</value>
-      <webElementGuid>e302810b-2be4-4e18-a395-8ad624a93ff7</webElementGuid>
+      <webElementGuid>e37e5cdf-1a73-44fd-a998-ac57007fa9bc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +82,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='MyJobStreet'])[1]/preceding::span[1]</value>
-      <webElementGuid>7a3e8515-2887-42da-a416-7a15a83de3b6</webElementGuid>
+      <webElementGuid>48a45301-5f59-4253-bcbe-03869a488a64</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +90,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Company profiles'])[1]/preceding::span[4]</value>
-      <webElementGuid>ee38f746-bfe7-41f2-b0cb-bd312b89e18f</webElementGuid>
+      <webElementGuid>91b21826-e40c-4ec8-8ce6-f48d3b4dd296</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +98,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Job search']/parent::*</value>
-      <webElementGuid>26c1ebd2-a512-4982-868d-63e3391f689f</webElementGuid>
+      <webElementGuid>cbcdb574-480d-471f-b537-0a99141a2365</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +106,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//span/span/span</value>
-      <webElementGuid>afa10ca5-ac78-43ee-bf87-a5456656c9a0</webElementGuid>
+      <webElementGuid>28d00fd8-0be6-4558-b127-977ac01c0293</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +114,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Job search' or . = 'Job search')]</value>
-      <webElementGuid>1c820cc9-c9d8-400f-b8a8-2ac8fa97cd8e</webElementGuid>
+      <webElementGuid>eb36007d-07b1-4290-9a01-4d974511ec86</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

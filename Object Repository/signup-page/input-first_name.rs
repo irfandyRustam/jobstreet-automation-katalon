@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input-search-jobs</name>
+   <name>input-first_name</name>
    <tag></tag>
-   <elementGuidId>4ffdda91-92f4-4685-9a11-f698238b42a3</elementGuidId>
+   <elementGuidId>db62df5a-1472-4fcc-9882-3a684549d077</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#search_box_keyword</value>
+         <key>XPATH</key>
+         <value>//input[@id='first_name']</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='search_box_keyword']</value>
+         <key>CSS</key>
+         <value>#first_name</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -22,39 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>7304c8ae-7117-4d79-8616-371a8f438fe8</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>search_box_keyword</value>
-      <webElementGuid>2d461671-bed3-4d76-9cbb-41e2a297925d</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>name</name>
-      <type>Main</type>
-      <value>key</value>
-      <webElementGuid>4c1114d1-f7db-4847-ac24-de8a7460175c</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>type</name>
-      <type>Main</type>
-      <value>text</value>
-      <webElementGuid>414b3dc2-84c5-440d-a95c-1d3be6fac48e</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>placeholder</name>
-      <type>Main</type>
-      <value>Search Jobs By Title, Skills or Keywords...</value>
-      <webElementGuid>1a9b4155-90a2-42a6-8b85-cdb9bc5974c4</webElementGuid>
+      <webElementGuid>704cd8b3-76a9-4588-9aee-428a4e345b51</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,46 +30,86 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>323c1e46-fd10-4572-81e8-f72eecf7f466</webElementGuid>
+      <webElementGuid>19e9a690-23f1-4ddb-bb9a-bd2321975ebe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>first_name</value>
+      <webElementGuid>dc806cf9-a385-467a-aecd-f5ebe3eb2c05</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>first_name</value>
+      <webElementGuid>30084557-262d-467d-a5a6-a1d9c8afa858</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>4ca1c3c8-4604-48d2-9adb-3ec26aa5d0f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>First Name</value>
+      <webElementGuid>64da2d82-4092-4771-92d0-8c579630101b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>maxlength</name>
+      <type>Main</type>
+      <value>40</value>
+      <webElementGuid>512cfd35-9643-45a6-ba11-a12defa6a59b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//input[@id='search_box_keyword']</value>
-      <webElementGuid>3dcb3cb9-c7f6-4742-9cee-3fe9f063010b</webElementGuid>
+      <value>//input[@id='first_name']</value>
+      <webElementGuid>8f99c9e4-0f59-42a5-af2a-c5143eae35b4</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='search_box_keyword']</value>
-      <webElementGuid>f59e1d83-b1fa-4d01-ad2f-dd1e6922d86b</webElementGuid>
+      <value>//input[@id='first_name']</value>
+      <webElementGuid>ff166c5f-ad88-486b-8021-fc6b67f09dec</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//form[@id='frmSearch']/div/input[2]</value>
-      <webElementGuid>d6e9d4d9-1865-4064-a4dd-c742823d3bdb</webElementGuid>
+      <value>//div[@id='firstname_form']/input</value>
+      <webElementGuid>e4e348ba-f840-4ed4-9f74-5b88ee5e7070</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/div/form/div/input[2]</value>
-      <webElementGuid>1f29bd2d-c1b9-405a-8d0f-5a9c894af0e4</webElementGuid>
+      <value>//div/div/input</value>
+      <webElementGuid>e187c3a6-7aab-4b3e-999d-f23c54388a56</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@id = 'search_box_keyword' and @name = 'key' and @type = 'text' and @placeholder = 'Search Jobs By Title, Skills or Keywords...']</value>
-      <webElementGuid>573a409e-af6b-4502-86bb-faf2319488ed</webElementGuid>
+      <value>//input[@id = 'first_name' and @name = 'first_name' and @type = 'text' and @placeholder = 'First Name']</value>
+      <webElementGuid>9f74f104-9f57-434b-8ceb-7d7be353be46</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

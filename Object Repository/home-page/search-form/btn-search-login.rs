@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>btn-search</name>
+   <name>btn-search-login</name>
    <tag></tag>
    <elementGuidId>0faee6c9-83d5-404d-89bd-03c5d4c86beb</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#header_searchbox_btn</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//a[@id='header_searchbox_btn']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#header_searchbox_btn</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
