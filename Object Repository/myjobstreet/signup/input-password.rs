@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input-search-jobs</name>
+   <name>input-password</name>
    <tag></tag>
-   <elementGuidId>4ffdda91-92f4-4685-9a11-f698238b42a3</elementGuidId>
+   <elementGuidId>67f388a5-984a-4e7a-b46d-008836bf255f</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#search_box_keyword</value>
+         <value>#password</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='search_box_keyword']</value>
+         <value>//input[@id='password']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -22,39 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>7304c8ae-7117-4d79-8616-371a8f438fe8</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>search_box_keyword</value>
-      <webElementGuid>2d461671-bed3-4d76-9cbb-41e2a297925d</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>name</name>
-      <type>Main</type>
-      <value>key</value>
-      <webElementGuid>4c1114d1-f7db-4847-ac24-de8a7460175c</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>type</name>
-      <type>Main</type>
-      <value>text</value>
-      <webElementGuid>414b3dc2-84c5-440d-a95c-1d3be6fac48e</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>placeholder</name>
-      <type>Main</type>
-      <value>Search Jobs By Title, Skills or Keywords...</value>
-      <webElementGuid>1a9b4155-90a2-42a6-8b85-cdb9bc5974c4</webElementGuid>
+      <webElementGuid>c55f19a9-7399-4f84-bab2-3196ff19bd3e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,46 +30,78 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>323c1e46-fd10-4572-81e8-f72eecf7f466</webElementGuid>
+      <webElementGuid>97e4d151-d739-4678-8fd5-b1558bd61760</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>password</value>
+      <webElementGuid>f33d30e3-619b-40dd-ade7-0c5e976a9520</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Password</value>
+      <webElementGuid>4f713d94-0b36-4683-bdb6-26a57e6135ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>password</value>
+      <webElementGuid>7779aafe-146e-4475-b8e5-e243164fbebf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>password</value>
+      <webElementGuid>3869acf1-edef-49f3-b2c9-07ed980d428f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//input[@id='search_box_keyword']</value>
-      <webElementGuid>3dcb3cb9-c7f6-4742-9cee-3fe9f063010b</webElementGuid>
+      <value>//input[@id='password']</value>
+      <webElementGuid>97fd3580-b6f2-4399-b122-8276e74deab6</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='search_box_keyword']</value>
-      <webElementGuid>f59e1d83-b1fa-4d01-ad2f-dd1e6922d86b</webElementGuid>
+      <value>//input[@id='password']</value>
+      <webElementGuid>df928e37-c1fa-45ca-813f-3b29c1a2986c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//form[@id='frmSearch']/div/input[2]</value>
-      <webElementGuid>d6e9d4d9-1865-4064-a4dd-c742823d3bdb</webElementGuid>
+      <value>//div[@id='password_form']/input</value>
+      <webElementGuid>84c7a25f-0ad0-4091-b919-c1b439a6b873</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/div/form/div/input[2]</value>
-      <webElementGuid>1f29bd2d-c1b9-405a-8d0f-5a9c894af0e4</webElementGuid>
+      <value>//div[7]/input</value>
+      <webElementGuid>5f602e59-44c3-4ffb-81e2-545b1ba26089</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@id = 'search_box_keyword' and @name = 'key' and @type = 'text' and @placeholder = 'Search Jobs By Title, Skills or Keywords...']</value>
-      <webElementGuid>573a409e-af6b-4502-86bb-faf2319488ed</webElementGuid>
+      <value>//input[@type = 'password' and @placeholder = 'Password' and @id = 'password' and @name = 'password']</value>
+      <webElementGuid>dd27ae5d-706d-467b-96e6-c0c1aac8dbc2</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

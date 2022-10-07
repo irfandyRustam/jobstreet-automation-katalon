@@ -6,12 +6,12 @@
    <elementGuidId>3d13c1b8-6f37-4ab6-a1b2-78c4bffe50ec</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#header_advancesearch_link</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//a[@id='header_advancesearch_link']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#header_advancesearch_link</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>

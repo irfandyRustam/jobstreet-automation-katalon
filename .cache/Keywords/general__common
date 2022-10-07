@@ -1,0 +1,15 @@
+{
+  "keywordFileContentHash": "B80E6CBAEC156C9103161CFD42B5A738",
+  "keywordClasses": [
+    {
+      "name": "general.common",
+      "keywordMethods": [
+        {
+          "name": "randomSignUpInfo",
+          "parameters": []
+        }
+      ]
+    }
+  ],
+  "javadocParsed": false
+}

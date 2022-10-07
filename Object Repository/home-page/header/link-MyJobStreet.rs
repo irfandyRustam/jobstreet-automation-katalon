@@ -7,11 +7,14 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(//a[@data-automation='MyJobStreet'])[1]</value>
+         <value>(//a[@data-automation='MyJobStreet'])[1] | //a[@id='header_myjobstreet_link']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>(//a[@data-automation='MyJobStreet'])[1] | //a[@id='header_myjobstreet_link']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -22,7 +25,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>f56200ae-4505-4e6f-b864-892dd6cb5605</webElementGuid>
+      <webElementGuid>4f5d9b67-621d-480b-a260-5cbdaad7fbfb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +33,7 @@
       <name>class</name>
       <type>Main</type>
       <value>sx2jih0 zcydq856 zcydq8ea zcydq8n zcydq85a zcydq8d2 rdmf22</value>
-      <webElementGuid>d3592ad2-5f31-4e9c-994b-fc5c851e9ae5</webElementGuid>
+      <webElementGuid>59f63ffb-038c-4fc2-9d7d-3e87ac2b1698</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,15 +41,15 @@
       <name>text</name>
       <type>Main</type>
       <value>MyJobStreet</value>
-      <webElementGuid>e17792dd-268c-4cc7-b1c3-1e0a6856944a</webElementGuid>
+      <webElementGuid>57256fa9-8e96-4d0a-be7b-84436ae9273d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>(//a[@data-automation='MyJobStreet'])[1]</value>
-      <webElementGuid>6c37880e-df59-4894-a92b-1020e21af816</webElementGuid>
+      <value>(//a[@data-automation='MyJobStreet'])[1] | //a[@id='header_myjobstreet_link']</value>
+      <webElementGuid>2cab877b-f891-491c-8fc4-0411d1dae472</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +57,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='app']/div/div/div[3]/div/div/div/div/div[2]/div/a[2]/span</value>
-      <webElementGuid>2e92b350-530c-4c76-b605-808fa4795344</webElementGuid>
+      <webElementGuid>2beb32d8-bc82-49ef-b859-717cefc3114d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +65,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Job search'])[1]/following::span[1]</value>
-      <webElementGuid>5b756b59-a750-46d7-b874-724999c7d421</webElementGuid>
+      <webElementGuid>820e0af2-7354-4b50-8573-c3caf28f840d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +73,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='JobStreet'])[1]/following::span[4]</value>
-      <webElementGuid>613d069c-429f-44b8-951b-0cfb9b6f2688</webElementGuid>
+      <webElementGuid>523817b3-13f2-4683-aa7e-61b451c58a5c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +81,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Company profiles'])[1]/preceding::span[3]</value>
-      <webElementGuid>3f33189e-783a-458d-9cf7-f628c55e3bcb</webElementGuid>
+      <webElementGuid>a7479ca3-bf74-4592-9abe-c5dd32bfebcb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +89,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//a[2]/span</value>
-      <webElementGuid>4ffdb902-11aa-423f-9b1d-2723af6999d1</webElementGuid>
+      <webElementGuid>33b02d5a-588f-48ff-889f-72e975bd24a1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +97,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'MyJobStreet' or . = 'MyJobStreet')]</value>
-      <webElementGuid>ef45b40b-136a-407f-9106-b62ce3c03d1b</webElementGuid>
+      <webElementGuid>fbc59b0a-7676-49be-9cfa-46ad2df13d01</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
