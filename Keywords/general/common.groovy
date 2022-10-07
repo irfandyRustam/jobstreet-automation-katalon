@@ -20,5 +20,21 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 
 import internal.GlobalVariable
 
+import org.apache.commons.lang3.RandomStringUtils
+
 public class common {
+	
+	//Generate random sign up info
+	@Keyword
+	def randomSignUpInfo() {
+		String fName = RandomStringUtils.randomAlphabetic(5)
+		String lName = RandomStringUtils.randomAlphabetic(5)
+		String eml = fName + lName + RandomStringUtils.randomNumeric(3) + "@fakemail.io"
+		String pwd = RandomStringUtils.randomAlphanumeric(15)
+		
+		Map details = [firstName: fName, lastName: lName, email: eml, password: pwd]
+		println(details)
+		
+		return details
+	}
 }

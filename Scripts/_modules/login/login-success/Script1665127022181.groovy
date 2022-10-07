@@ -19,8 +19,10 @@ import com.kms.katalon.core.util.KeywordUtil
 //Click button "Login" - header
 WebUI.click(findTestObject('home-page/header/btn-Login'))
 
-//Enter Email and Password
+//Enter Email
 WebUI.setText(findTestObject('myjobstreet/login/input-email'), username)
+
+//Enter Password
 WebUI.setEncryptedText(findTestObject('myjobstreet/login/input-password'), password)
 
 //Click button "Log In"
@@ -37,4 +39,5 @@ if(WebUI.verifyElementNotPresent(findTestObject('myjobstreet/login/error-login')
 	//Login failure
 	errorMsg = WebUI.getAttribute(findTestObject('myjobstreet/login/error-login'), 'innerText')
 	KeywordUtil.markFailed(errorMsg)
+	
 }
