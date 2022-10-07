@@ -28,4 +28,4 @@ WebUI.callTestCase(findTestCase('Test Cases/_modules/common/open-job-portal'), n
 WebUI.callTestCase(findTestCase('Test Cases/_modules/signup/signup-success'), signupInfo)
 
 //Close browser
-//WebUI.closeBrowser()
+WebUI.closeBrowser()
