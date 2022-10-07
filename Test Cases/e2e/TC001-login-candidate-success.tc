@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC001-login-candidate-success</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c7a4d159-9ff1-48b7-9601-65744b39b67a</testCaseGuid>
+</TestCaseEntity>

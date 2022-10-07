@@ -4,4 +4,19 @@
    <name>default</name>
    <tag></tag>
    <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description>homepage url for different country</description>
+      <initValue>[('Singapore') : 'https://www.jobstreet.com.sg/', ('Malaysia') : 'https://www.jobstreet.com.my/', ('Indonesia') : 'https://www.jobstreet.co.id/', ('Hong Kong') : 'https://hk.jobsdb.com/hk', ('Australia') : 'https://www.seek.com.au/', ('New Zealand') : 'https://www.seek.co.nz/', ('Philippines') : 'https://www.jobstreet.com.ph/', ('Thailand') : 'https://th.jobsdb.com/th']</initValue>
+      <name>portalURL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'irfandy4work@gmail.com'</initValue>
+      <name>username</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'mqNBhcAZtJ20uG/XQHGidg=='</initValue>
+      <name>password</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>

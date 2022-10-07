@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>open-job-portal</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7dae0a88-fe00-48ce-bc1f-84458ecc705a</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>16a6abbd-7a1d-4bf4-afc5-058abdc02342</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Singapore'</defaultValue>
+      <description></description>
+      <id>16a6abbd-7a1d-4bf4-afc5-058abdc02342</id>
+      <masked>false</masked>
+      <name>country</name>
+   </variable>
+</TestCaseEntity>
